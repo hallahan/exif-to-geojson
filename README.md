@@ -6,7 +6,7 @@ This takes a directory full of images and makes a GeoJSON file with all of the f
 2. `node exif-to-geojson.js`
 3. The output will be written to exif.geojson
 
-Demo: [http://hallahan.github.io/exif-to-geojson/index.html](http://hallahan.github.io/exif-to-geojson)
+Demo: [http://hallahan.github.io/exif-to-geojson](http://hallahan.github.io/exif-to-geojson)
 
 After you run the script, you can see the geojson with pop-ups that link to the corresponding images
 in `index.html`.
@@ -26,3 +26,7 @@ my phone which does not have a very reliable GPS unit.
 3. The test directory is not unit tests, however, it does create json that
 you can look at to see if you find reasonable results. This should be refactored
 to produce unit tests.
+
+4. The demo should be improved so that we can see multiple images where the GPS coordinates
+are at the same point. This is particularly a problem with images from my phone, because
+the GPS unit fails often and will tag many images with the same coordinates.
