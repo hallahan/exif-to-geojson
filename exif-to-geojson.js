@@ -95,7 +95,7 @@ var files = fs.readdirSync('img');
  */
 var imgPaths = [];
 files.forEach(function (file) {
-  if (file.slice(-3).toLowerCase() === 'jpg' || file.slice(-3).toLowerCase() === 'jpeg') {
+  if (file.slice(-3).toLowerCase() === 'jpg' || file.slice(-4).toLowerCase() === 'jpeg') {
     imgPaths.push(file);
   }
 });
