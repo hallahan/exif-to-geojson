@@ -1,0 +1,90 @@
+{
+  "image": {
+    "ImageWidth": 3264,
+    "ImageHeight": 2448,
+    "Make": "SAMSUNG",
+    "Model": "SCH-I535\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "Orientation": 1,
+    "XResolution": 72,
+    "YResolution": 72,
+    "ResolutionUnit": 2,
+    "Software": "I535VRUCML1",
+    "ModifyDate": "2014:05:10 10:11:17",
+    "YCbCrPositioning": 1,
+    "ExifOffset": 242,
+    "GPSInfo": 4942
+  },
+  "thumbnail": {
+    "ImageWidth": 160,
+    "ImageHeight": 120,
+    "Compression": 6,
+    "Orientation": 1,
+    "XResolution": 72,
+    "YResolution": 72,
+    "ResolutionUnit": 2,
+    "ThumbnailOffset": 5090,
+    "ThumbnailLength": 6188
+  },
+  "exif": {
+    "ExposureTime": 0.025,
+    "FNumber": 2.6,
+    "ExposureProgram": 3,
+    "ISO": 80,
+    "ExifVersion": [
+      48,
+      50,
+      50,
+      48
+    ],
+    "DateTimeOriginal": "2014:05:10 10:11:17",
+    "CreateDate": "2014:05:10 10:11:17",
+    "ComponentsConfiguration": [
+      1,
+      2,
+      3,
+      0
+    ],
+    "ShutterSpeedValue": 5.3203125,
+    "ApertureValue": 2.76,
+    "BrightnessValue": 3.51171875,
+    "ExposureCompensation": 0,
+    "MaxApertureValue": 2.76,
+    "MeteringMode": 2,
+    "LightSource": 0,
+    "Flash": 0,
+    "FocalLength": 3.7,
+    "FlashpixVersion": [
+      48,
+      49,
+      48,
+      48
+    ],
+    "ColorSpace": 1,
+    "ExifImageWidth": 2448,
+    "ExifImageHeight": 3264,
+    "InteropOffset": 4912,
+    "SensingMethod": 2,
+    "SceneType": 1,
+    "ExposureMode": 0,
+    "WhiteBalance": 0,
+    "SceneCaptureType": 0,
+    "ImageUniqueID": "ZDFI02"
+  },
+  "gps": {
+    "GPSVersionID": [
+      2,
+      2,
+      0,
+      0
+    ]
+  },
+  "interoperability": {
+    "InteropIndex": "R98",
+    "InteropVersion": [
+      48,
+      49,
+      48,
+      48
+    ]
+  }
+}

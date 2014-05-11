@@ -7,3 +7,7 @@ stamp of the moment the phone got the actual GPS coordinate that is
 associated with the image. This is often not the same point in time
 that the picture itself was taken. This is particularly true with
 my phone which does not have a very reliable GPS unit.
+
+3. The test directory is not unit tests, however, it does create json that
+you can look at to see if you find reasonable results. This should be refactored
+to produce unit tests.
