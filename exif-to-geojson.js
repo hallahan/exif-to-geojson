@@ -39,12 +39,12 @@ function exifToFeature(exifData) {
 
   // time the gps coordinate was taken
   var gpsDateArr = gps.GPSDateStamp.split(':');
-  var gpsDate = new Date( parseInt(gpsDateArr[0]),
-                          parseInt(gpsDateArr[1]) - 1 , // Jan is 0
-                          parseInt(gpsDateArr[2]),
-                          gps.GPSTimeStamp[0],
-                          gps.GPSTimeStamp[1],
-                          gps.GPSTimeStamp[2] );
+  var gpsDate = new Date(Date.UTC( parseInt(gpsDateArr[0]),
+                                   parseInt(gpsDateArr[1]) - 1 , // Jan is 0
+                                   parseInt(gpsDateArr[2]),
+                                   gps.GPSTimeStamp[0],
+                                   gps.GPSTimeStamp[1],
+                                   gps.GPSTimeStamp[2] ) );
   feat.properties.gpsTime = gpsDate.getTime();
   feat.properties.gpsTimeStr = gpsDate.toString();
 
