@@ -29,7 +29,12 @@
         }).addTo(map);
 
         $.get('exif.geojson', function (data) {
-            var geojson = JSON.parse(data) || data;
+            var geojson = null;
+            if (typeof data === 'string') {
+                geojson = JSON.parse(data)
+            } else {
+                geojson = data;
+            }
             var layer = L.geoJson(geojson, {
                 onEachFeature: function(feature, layer) {
                     var imgPath = feature.properties.imgPath;
