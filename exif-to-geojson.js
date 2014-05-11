@@ -67,6 +67,7 @@ function processImage(imgPath, cb) {
 
         try {
           var feat = exifToFeature(exifData);
+          feat.properties.imgPath = imgPath;
           geojson.features.push(feat);
         } catch (err) {
           console.log(err + ' in ' + imgPath + '. Skipping...');
