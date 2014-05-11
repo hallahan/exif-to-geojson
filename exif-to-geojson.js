@@ -19,6 +19,12 @@ function exifToFeature(exifData) {
   }
   var lat = gps.GPSLatitude[0] + gps.GPSLatitude[1] / 60 + gps.GPSLatitude[2] / 3600;
   var lng = gps.GPSLongitude[0] + gps.GPSLongitude[1] / 60 + gps.GPSLongitude[2] / 3600;
+  if (gps.GPSLatitudeRef.toLowerCase() === 's') {
+    lat = - lat;
+  }
+  if (gps.GPSLongitudeRef.toLowerCase() === 'w') {
+    lng = - lng;
+  }
   var alt = gps.GPSAltitude;
   var coord = alt ? [lng, lat, alt] : [lng, lat];
   var feat = {
