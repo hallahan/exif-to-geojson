@@ -144,135 +144,6 @@
             "YResolution": 72,
             "ResolutionUnit": 2,
             "Software": "I535VRUCML1",
-            "ModifyDate": "2014:05:10 10:29:25",
-            "YCbCrPositioning": 1,
-            "ExifOffset": 242,
-            "GPSInfo": 4942
-          },
-          "thumbnail": {
-            "ImageWidth": 160,
-            "ImageHeight": 120,
-            "Compression": 6,
-            "Orientation": 1,
-            "XResolution": 72,
-            "YResolution": 72,
-            "ResolutionUnit": 2,
-            "ThumbnailOffset": 5302,
-            "ThumbnailLength": 8322
-          },
-          "exif": {
-            "ExposureTime": 0.0016835016835016834,
-            "FNumber": 2.6,
-            "ExposureProgram": 3,
-            "ISO": 80,
-            "ExifVersion": [
-              48,
-              50,
-              50,
-              48
-            ],
-            "DateTimeOriginal": "2014:05:10 10:29:25",
-            "CreateDate": "2014:05:10 10:29:25",
-            "ComponentsConfiguration": [
-              1,
-              2,
-              3,
-              0
-            ],
-            "ShutterSpeedValue": 9.21875,
-            "ApertureValue": 2.76,
-            "BrightnessValue": 7.42578125,
-            "ExposureCompensation": 0,
-            "MaxApertureValue": 2.76,
-            "MeteringMode": 2,
-            "LightSource": 0,
-            "Flash": 0,
-            "FocalLength": 3.7,
-            "FlashpixVersion": [
-              48,
-              49,
-              48,
-              48
-            ],
-            "ColorSpace": 1,
-            "ExifImageWidth": 2448,
-            "ExifImageHeight": 3264,
-            "InteropOffset": 4912,
-            "SensingMethod": 2,
-            "SceneType": 1,
-            "ExposureMode": 0,
-            "WhiteBalance": 0,
-            "SceneCaptureType": 0,
-            "ImageUniqueID": "ZDFI02"
-          },
-          "gps": {
-            "GPSVersionID": [
-              2,
-              2,
-              0,
-              0
-            ],
-            "GPSLatitudeRef": "N",
-            "GPSLatitude": [
-              47,
-              19,
-              5.54
-            ],
-            "GPSLongitudeRef": "W",
-            "GPSLongitude": [
-              120,
-              34,
-              41.26
-            ],
-            "GPSAltitudeRef": 0,
-            "GPSAltitude": 1396,
-            "GPSTimeStamp": [
-              17,
-              29,
-              23
-            ],
-            "GPSProcessingMethod": "ASCII\u0000\u0000\u0000GPS",
-            "GPSDateStamp": "2014:05:10"
-          },
-          "interoperability": {
-            "InteropIndex": "R98",
-            "InteropVersion": [
-              48,
-              49,
-              48,
-              48
-            ]
-          }
-        },
-        "gpsTime": 1399742963000,
-        "gpsTimeStr": "Sat May 10 2014 10:29:23 GMT-0700 (PDT)",
-        "imgTime": 1399742965000,
-        "imgTimeStr": "Sat May 10 2014 10:29:25 GMT-0700 (PDT)",
-        "imgPath": "img/2014-05-10 10.29.25.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.57812777777778,
-          47.31820555555556,
-          1396
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "exif": {
-          "image": {
-            "ImageWidth": 3264,
-            "ImageHeight": 2448,
-            "Make": "SAMSUNG",
-            "Model": "SCH-I535\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-            "Orientation": 1,
-            "XResolution": 72,
-            "YResolution": 72,
-            "ResolutionUnit": 2,
-            "Software": "I535VRUCML1",
             "ModifyDate": "2014:05:10 10:30:54",
             "YCbCrPositioning": 1,
             "ExifOffset": 242,
@@ -378,6 +249,135 @@
         "imgTime": 1399743054000,
         "imgTimeStr": "Sat May 10 2014 10:30:54 GMT-0700 (PDT)",
         "imgPath": "img/2014-05-10 10.30.54.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.57812777777778,
+          47.31820555555556,
+          1396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "exif": {
+          "image": {
+            "ImageWidth": 3264,
+            "ImageHeight": 2448,
+            "Make": "SAMSUNG",
+            "Model": "SCH-I535\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+            "Orientation": 1,
+            "XResolution": 72,
+            "YResolution": 72,
+            "ResolutionUnit": 2,
+            "Software": "I535VRUCML1",
+            "ModifyDate": "2014:05:10 10:29:25",
+            "YCbCrPositioning": 1,
+            "ExifOffset": 242,
+            "GPSInfo": 4942
+          },
+          "thumbnail": {
+            "ImageWidth": 160,
+            "ImageHeight": 120,
+            "Compression": 6,
+            "Orientation": 1,
+            "XResolution": 72,
+            "YResolution": 72,
+            "ResolutionUnit": 2,
+            "ThumbnailOffset": 5302,
+            "ThumbnailLength": 8322
+          },
+          "exif": {
+            "ExposureTime": 0.0016835016835016834,
+            "FNumber": 2.6,
+            "ExposureProgram": 3,
+            "ISO": 80,
+            "ExifVersion": [
+              48,
+              50,
+              50,
+              48
+            ],
+            "DateTimeOriginal": "2014:05:10 10:29:25",
+            "CreateDate": "2014:05:10 10:29:25",
+            "ComponentsConfiguration": [
+              1,
+              2,
+              3,
+              0
+            ],
+            "ShutterSpeedValue": 9.21875,
+            "ApertureValue": 2.76,
+            "BrightnessValue": 7.42578125,
+            "ExposureCompensation": 0,
+            "MaxApertureValue": 2.76,
+            "MeteringMode": 2,
+            "LightSource": 0,
+            "Flash": 0,
+            "FocalLength": 3.7,
+            "FlashpixVersion": [
+              48,
+              49,
+              48,
+              48
+            ],
+            "ColorSpace": 1,
+            "ExifImageWidth": 2448,
+            "ExifImageHeight": 3264,
+            "InteropOffset": 4912,
+            "SensingMethod": 2,
+            "SceneType": 1,
+            "ExposureMode": 0,
+            "WhiteBalance": 0,
+            "SceneCaptureType": 0,
+            "ImageUniqueID": "ZDFI02"
+          },
+          "gps": {
+            "GPSVersionID": [
+              2,
+              2,
+              0,
+              0
+            ],
+            "GPSLatitudeRef": "N",
+            "GPSLatitude": [
+              47,
+              19,
+              5.54
+            ],
+            "GPSLongitudeRef": "W",
+            "GPSLongitude": [
+              120,
+              34,
+              41.26
+            ],
+            "GPSAltitudeRef": 0,
+            "GPSAltitude": 1396,
+            "GPSTimeStamp": [
+              17,
+              29,
+              23
+            ],
+            "GPSProcessingMethod": "ASCII\u0000\u0000\u0000GPS",
+            "GPSDateStamp": "2014:05:10"
+          },
+          "interoperability": {
+            "InteropIndex": "R98",
+            "InteropVersion": [
+              48,
+              49,
+              48,
+              48
+            ]
+          }
+        },
+        "gpsTime": 1399742963000,
+        "gpsTimeStr": "Sat May 10 2014 10:29:23 GMT-0700 (PDT)",
+        "imgTime": 1399742965000,
+        "imgTimeStr": "Sat May 10 2014 10:29:25 GMT-0700 (PDT)",
+        "imgPath": "img/2014-05-10 10.29.25.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -918,135 +918,6 @@
             "YResolution": 72,
             "ResolutionUnit": 2,
             "Software": "I535VRUCML1",
-            "ModifyDate": "2014:05:10 10:47:43",
-            "YCbCrPositioning": 1,
-            "ExifOffset": 242,
-            "GPSInfo": 4942
-          },
-          "thumbnail": {
-            "ImageWidth": 160,
-            "ImageHeight": 120,
-            "Compression": 6,
-            "Orientation": 1,
-            "XResolution": 72,
-            "YResolution": 72,
-            "ResolutionUnit": 2,
-            "ThumbnailOffset": 5302,
-            "ThumbnailLength": 3905
-          },
-          "exif": {
-            "ExposureTime": 0.0009689922480620155,
-            "FNumber": 2.6,
-            "ExposureProgram": 3,
-            "ISO": 80,
-            "ExifVersion": [
-              48,
-              50,
-              50,
-              48
-            ],
-            "DateTimeOriginal": "2014:05:10 10:47:43",
-            "CreateDate": "2014:05:10 10:47:43",
-            "ComponentsConfiguration": [
-              1,
-              2,
-              3,
-              0
-            ],
-            "ShutterSpeedValue": 10.01171875,
-            "ApertureValue": 2.76,
-            "BrightnessValue": 8.1015625,
-            "ExposureCompensation": 0,
-            "MaxApertureValue": 2.76,
-            "MeteringMode": 2,
-            "LightSource": 0,
-            "Flash": 0,
-            "FocalLength": 3.7,
-            "FlashpixVersion": [
-              48,
-              49,
-              48,
-              48
-            ],
-            "ColorSpace": 1,
-            "ExifImageWidth": 3264,
-            "ExifImageHeight": 2448,
-            "InteropOffset": 4912,
-            "SensingMethod": 2,
-            "SceneType": 1,
-            "ExposureMode": 0,
-            "WhiteBalance": 0,
-            "SceneCaptureType": 0,
-            "ImageUniqueID": "ZDFI02"
-          },
-          "gps": {
-            "GPSVersionID": [
-              2,
-              2,
-              0,
-              0
-            ],
-            "GPSLatitudeRef": "N",
-            "GPSLatitude": [
-              47,
-              19,
-              5.54
-            ],
-            "GPSLongitudeRef": "W",
-            "GPSLongitude": [
-              120,
-              34,
-              41.26
-            ],
-            "GPSAltitudeRef": 0,
-            "GPSAltitude": 1396,
-            "GPSTimeStamp": [
-              17,
-              29,
-              23
-            ],
-            "GPSProcessingMethod": "ASCII\u0000\u0000\u0000GPS",
-            "GPSDateStamp": "2014:05:10"
-          },
-          "interoperability": {
-            "InteropIndex": "R98",
-            "InteropVersion": [
-              48,
-              49,
-              48,
-              48
-            ]
-          }
-        },
-        "gpsTime": 1399742963000,
-        "gpsTimeStr": "Sat May 10 2014 10:29:23 GMT-0700 (PDT)",
-        "imgTime": 1399744063000,
-        "imgTimeStr": "Sat May 10 2014 10:47:43 GMT-0700 (PDT)",
-        "imgPath": "img/2014-05-10 10.47.43.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.57812777777778,
-          47.31820555555556,
-          1396
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "exif": {
-          "image": {
-            "ImageWidth": 3264,
-            "ImageHeight": 2448,
-            "Make": "SAMSUNG",
-            "Model": "SCH-I535\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-            "Orientation": 1,
-            "XResolution": 72,
-            "YResolution": 72,
-            "ResolutionUnit": 2,
-            "Software": "I535VRUCML1",
             "ModifyDate": "2014:05:10 10:42:46",
             "YCbCrPositioning": 1,
             "ExifOffset": 242,
@@ -1152,135 +1023,6 @@
         "imgTime": 1399743766000,
         "imgTimeStr": "Sat May 10 2014 10:42:46 GMT-0700 (PDT)",
         "imgPath": "img/2014-05-10 10.42.46.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.57812777777778,
-          47.31820555555556,
-          1396
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "exif": {
-          "image": {
-            "ImageWidth": 3264,
-            "ImageHeight": 2448,
-            "Make": "SAMSUNG",
-            "Model": "SCH-I535\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-            "Orientation": 1,
-            "XResolution": 72,
-            "YResolution": 72,
-            "ResolutionUnit": 2,
-            "Software": "I535VRUCML1",
-            "ModifyDate": "2014:05:10 10:47:44",
-            "YCbCrPositioning": 1,
-            "ExifOffset": 242,
-            "GPSInfo": 4942
-          },
-          "thumbnail": {
-            "ImageWidth": 160,
-            "ImageHeight": 120,
-            "Compression": 6,
-            "Orientation": 1,
-            "XResolution": 72,
-            "YResolution": 72,
-            "ResolutionUnit": 2,
-            "ThumbnailOffset": 5302,
-            "ThumbnailLength": 4050
-          },
-          "exif": {
-            "ExposureTime": 0.0012987012987012987,
-            "FNumber": 2.6,
-            "ExposureProgram": 3,
-            "ISO": 80,
-            "ExifVersion": [
-              48,
-              50,
-              50,
-              48
-            ],
-            "DateTimeOriginal": "2014:05:10 10:47:44",
-            "CreateDate": "2014:05:10 10:47:44",
-            "ComponentsConfiguration": [
-              1,
-              2,
-              3,
-              0
-            ],
-            "ShutterSpeedValue": 9.58984375,
-            "ApertureValue": 2.76,
-            "BrightnessValue": 7.79296875,
-            "ExposureCompensation": 0,
-            "MaxApertureValue": 2.76,
-            "MeteringMode": 2,
-            "LightSource": 0,
-            "Flash": 0,
-            "FocalLength": 3.7,
-            "FlashpixVersion": [
-              48,
-              49,
-              48,
-              48
-            ],
-            "ColorSpace": 1,
-            "ExifImageWidth": 3264,
-            "ExifImageHeight": 2448,
-            "InteropOffset": 4912,
-            "SensingMethod": 2,
-            "SceneType": 1,
-            "ExposureMode": 0,
-            "WhiteBalance": 0,
-            "SceneCaptureType": 0,
-            "ImageUniqueID": "ZDFI02"
-          },
-          "gps": {
-            "GPSVersionID": [
-              2,
-              2,
-              0,
-              0
-            ],
-            "GPSLatitudeRef": "N",
-            "GPSLatitude": [
-              47,
-              19,
-              5.54
-            ],
-            "GPSLongitudeRef": "W",
-            "GPSLongitude": [
-              120,
-              34,
-              41.26
-            ],
-            "GPSAltitudeRef": 0,
-            "GPSAltitude": 1396,
-            "GPSTimeStamp": [
-              17,
-              29,
-              23
-            ],
-            "GPSProcessingMethod": "ASCII\u0000\u0000\u0000GPS",
-            "GPSDateStamp": "2014:05:10"
-          },
-          "interoperability": {
-            "InteropIndex": "R98",
-            "InteropVersion": [
-              48,
-              49,
-              48,
-              48
-            ]
-          }
-        },
-        "gpsTime": 1399742963000,
-        "gpsTimeStr": "Sat May 10 2014 10:29:23 GMT-0700 (PDT)",
-        "imgTime": 1399744064000,
-        "imgTimeStr": "Sat May 10 2014 10:47:44 GMT-0700 (PDT)",
-        "imgPath": "img/2014-05-10 10.47.44.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1434,7 +1176,7 @@
             "YResolution": 72,
             "ResolutionUnit": 2,
             "Software": "I535VRUCML1",
-            "ModifyDate": "2014:05:10 11:00:41",
+            "ModifyDate": "2014:05:10 10:47:43",
             "YCbCrPositioning": 1,
             "ExifOffset": 242,
             "GPSInfo": 4942
@@ -1448,10 +1190,10 @@
             "YResolution": 72,
             "ResolutionUnit": 2,
             "ThumbnailOffset": 5302,
-            "ThumbnailLength": 6919
+            "ThumbnailLength": 3905
           },
           "exif": {
-            "ExposureTime": 0.015151515151515152,
+            "ExposureTime": 0.0009689922480620155,
             "FNumber": 2.6,
             "ExposureProgram": 3,
             "ISO": 80,
@@ -1461,17 +1203,17 @@
               50,
               48
             ],
-            "DateTimeOriginal": "2014:05:10 11:00:41",
-            "CreateDate": "2014:05:10 11:00:41",
+            "DateTimeOriginal": "2014:05:10 10:47:43",
+            "CreateDate": "2014:05:10 10:47:43",
             "ComponentsConfiguration": [
               1,
               2,
               3,
               0
             ],
-            "ShutterSpeedValue": 6.0546875,
+            "ShutterSpeedValue": 10.01171875,
             "ApertureValue": 2.76,
-            "BrightnessValue": 4.1796875,
+            "BrightnessValue": 8.1015625,
             "ExposureCompensation": 0,
             "MaxApertureValue": 2.76,
             "MeteringMode": 2,
@@ -1485,8 +1227,8 @@
               48
             ],
             "ColorSpace": 1,
-            "ExifImageWidth": 2448,
-            "ExifImageHeight": 3264,
+            "ExifImageWidth": 3264,
+            "ExifImageHeight": 2448,
             "InteropOffset": 4912,
             "SensingMethod": 2,
             "SceneType": 1,
@@ -1536,9 +1278,138 @@
         },
         "gpsTime": 1399742963000,
         "gpsTimeStr": "Sat May 10 2014 10:29:23 GMT-0700 (PDT)",
-        "imgTime": 1399744841000,
-        "imgTimeStr": "Sat May 10 2014 11:00:41 GMT-0700 (PDT)",
-        "imgPath": "img/2014-05-10 11.00.41.jpg"
+        "imgTime": 1399744063000,
+        "imgTimeStr": "Sat May 10 2014 10:47:43 GMT-0700 (PDT)",
+        "imgPath": "img/2014-05-10 10.47.43.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.57812777777778,
+          47.31820555555556,
+          1396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "exif": {
+          "image": {
+            "ImageWidth": 3264,
+            "ImageHeight": 2448,
+            "Make": "SAMSUNG",
+            "Model": "SCH-I535\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+            "Orientation": 1,
+            "XResolution": 72,
+            "YResolution": 72,
+            "ResolutionUnit": 2,
+            "Software": "I535VRUCML1",
+            "ModifyDate": "2014:05:10 10:47:44",
+            "YCbCrPositioning": 1,
+            "ExifOffset": 242,
+            "GPSInfo": 4942
+          },
+          "thumbnail": {
+            "ImageWidth": 160,
+            "ImageHeight": 120,
+            "Compression": 6,
+            "Orientation": 1,
+            "XResolution": 72,
+            "YResolution": 72,
+            "ResolutionUnit": 2,
+            "ThumbnailOffset": 5302,
+            "ThumbnailLength": 4050
+          },
+          "exif": {
+            "ExposureTime": 0.0012987012987012987,
+            "FNumber": 2.6,
+            "ExposureProgram": 3,
+            "ISO": 80,
+            "ExifVersion": [
+              48,
+              50,
+              50,
+              48
+            ],
+            "DateTimeOriginal": "2014:05:10 10:47:44",
+            "CreateDate": "2014:05:10 10:47:44",
+            "ComponentsConfiguration": [
+              1,
+              2,
+              3,
+              0
+            ],
+            "ShutterSpeedValue": 9.58984375,
+            "ApertureValue": 2.76,
+            "BrightnessValue": 7.79296875,
+            "ExposureCompensation": 0,
+            "MaxApertureValue": 2.76,
+            "MeteringMode": 2,
+            "LightSource": 0,
+            "Flash": 0,
+            "FocalLength": 3.7,
+            "FlashpixVersion": [
+              48,
+              49,
+              48,
+              48
+            ],
+            "ColorSpace": 1,
+            "ExifImageWidth": 3264,
+            "ExifImageHeight": 2448,
+            "InteropOffset": 4912,
+            "SensingMethod": 2,
+            "SceneType": 1,
+            "ExposureMode": 0,
+            "WhiteBalance": 0,
+            "SceneCaptureType": 0,
+            "ImageUniqueID": "ZDFI02"
+          },
+          "gps": {
+            "GPSVersionID": [
+              2,
+              2,
+              0,
+              0
+            ],
+            "GPSLatitudeRef": "N",
+            "GPSLatitude": [
+              47,
+              19,
+              5.54
+            ],
+            "GPSLongitudeRef": "W",
+            "GPSLongitude": [
+              120,
+              34,
+              41.26
+            ],
+            "GPSAltitudeRef": 0,
+            "GPSAltitude": 1396,
+            "GPSTimeStamp": [
+              17,
+              29,
+              23
+            ],
+            "GPSProcessingMethod": "ASCII\u0000\u0000\u0000GPS",
+            "GPSDateStamp": "2014:05:10"
+          },
+          "interoperability": {
+            "InteropIndex": "R98",
+            "InteropVersion": [
+              48,
+              49,
+              48,
+              48
+            ]
+          }
+        },
+        "gpsTime": 1399742963000,
+        "gpsTimeStr": "Sat May 10 2014 10:29:23 GMT-0700 (PDT)",
+        "imgTime": 1399744064000,
+        "imgTimeStr": "Sat May 10 2014 10:47:44 GMT-0700 (PDT)",
+        "imgPath": "img/2014-05-10 10.47.44.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1668,6 +1539,135 @@
         "imgTime": 1399744856000,
         "imgTimeStr": "Sat May 10 2014 11:00:56 GMT-0700 (PDT)",
         "imgPath": "img/2014-05-10 11.00.56.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.57812777777778,
+          47.31820555555556,
+          1396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "exif": {
+          "image": {
+            "ImageWidth": 3264,
+            "ImageHeight": 2448,
+            "Make": "SAMSUNG",
+            "Model": "SCH-I535\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+            "Orientation": 1,
+            "XResolution": 72,
+            "YResolution": 72,
+            "ResolutionUnit": 2,
+            "Software": "I535VRUCML1",
+            "ModifyDate": "2014:05:10 11:00:41",
+            "YCbCrPositioning": 1,
+            "ExifOffset": 242,
+            "GPSInfo": 4942
+          },
+          "thumbnail": {
+            "ImageWidth": 160,
+            "ImageHeight": 120,
+            "Compression": 6,
+            "Orientation": 1,
+            "XResolution": 72,
+            "YResolution": 72,
+            "ResolutionUnit": 2,
+            "ThumbnailOffset": 5302,
+            "ThumbnailLength": 6919
+          },
+          "exif": {
+            "ExposureTime": 0.015151515151515152,
+            "FNumber": 2.6,
+            "ExposureProgram": 3,
+            "ISO": 80,
+            "ExifVersion": [
+              48,
+              50,
+              50,
+              48
+            ],
+            "DateTimeOriginal": "2014:05:10 11:00:41",
+            "CreateDate": "2014:05:10 11:00:41",
+            "ComponentsConfiguration": [
+              1,
+              2,
+              3,
+              0
+            ],
+            "ShutterSpeedValue": 6.0546875,
+            "ApertureValue": 2.76,
+            "BrightnessValue": 4.1796875,
+            "ExposureCompensation": 0,
+            "MaxApertureValue": 2.76,
+            "MeteringMode": 2,
+            "LightSource": 0,
+            "Flash": 0,
+            "FocalLength": 3.7,
+            "FlashpixVersion": [
+              48,
+              49,
+              48,
+              48
+            ],
+            "ColorSpace": 1,
+            "ExifImageWidth": 2448,
+            "ExifImageHeight": 3264,
+            "InteropOffset": 4912,
+            "SensingMethod": 2,
+            "SceneType": 1,
+            "ExposureMode": 0,
+            "WhiteBalance": 0,
+            "SceneCaptureType": 0,
+            "ImageUniqueID": "ZDFI02"
+          },
+          "gps": {
+            "GPSVersionID": [
+              2,
+              2,
+              0,
+              0
+            ],
+            "GPSLatitudeRef": "N",
+            "GPSLatitude": [
+              47,
+              19,
+              5.54
+            ],
+            "GPSLongitudeRef": "W",
+            "GPSLongitude": [
+              120,
+              34,
+              41.26
+            ],
+            "GPSAltitudeRef": 0,
+            "GPSAltitude": 1396,
+            "GPSTimeStamp": [
+              17,
+              29,
+              23
+            ],
+            "GPSProcessingMethod": "ASCII\u0000\u0000\u0000GPS",
+            "GPSDateStamp": "2014:05:10"
+          },
+          "interoperability": {
+            "InteropIndex": "R98",
+            "InteropVersion": [
+              48,
+              49,
+              48,
+              48
+            ]
+          }
+        },
+        "gpsTime": 1399742963000,
+        "gpsTimeStr": "Sat May 10 2014 10:29:23 GMT-0700 (PDT)",
+        "imgTime": 1399744841000,
+        "imgTimeStr": "Sat May 10 2014 11:00:41 GMT-0700 (PDT)",
+        "imgPath": "img/2014-05-10 11.00.41.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -2079,135 +2079,6 @@
             "YResolution": 72,
             "ResolutionUnit": 2,
             "Software": "I535VRUCML1",
-            "ModifyDate": "2014:05:10 11:10:01",
-            "YCbCrPositioning": 1,
-            "ExifOffset": 242,
-            "GPSInfo": 4942
-          },
-          "thumbnail": {
-            "ImageWidth": 160,
-            "ImageHeight": 120,
-            "Compression": 6,
-            "Orientation": 1,
-            "XResolution": 72,
-            "YResolution": 72,
-            "ResolutionUnit": 2,
-            "ThumbnailOffset": 5302,
-            "ThumbnailLength": 7688
-          },
-          "exif": {
-            "ExposureTime": 0.011764705882352941,
-            "FNumber": 2.6,
-            "ExposureProgram": 3,
-            "ISO": 80,
-            "ExifVersion": [
-              48,
-              50,
-              50,
-              48
-            ],
-            "DateTimeOriginal": "2014:05:10 11:10:01",
-            "CreateDate": "2014:05:10 11:10:01",
-            "ComponentsConfiguration": [
-              1,
-              2,
-              3,
-              0
-            ],
-            "ShutterSpeedValue": 6.40625,
-            "ApertureValue": 2.76,
-            "BrightnessValue": 4.60546875,
-            "ExposureCompensation": 0,
-            "MaxApertureValue": 2.76,
-            "MeteringMode": 2,
-            "LightSource": 0,
-            "Flash": 0,
-            "FocalLength": 3.7,
-            "FlashpixVersion": [
-              48,
-              49,
-              48,
-              48
-            ],
-            "ColorSpace": 1,
-            "ExifImageWidth": 2448,
-            "ExifImageHeight": 3264,
-            "InteropOffset": 4912,
-            "SensingMethod": 2,
-            "SceneType": 1,
-            "ExposureMode": 0,
-            "WhiteBalance": 0,
-            "SceneCaptureType": 0,
-            "ImageUniqueID": "ZDFI02"
-          },
-          "gps": {
-            "GPSVersionID": [
-              2,
-              2,
-              0,
-              0
-            ],
-            "GPSLatitudeRef": "N",
-            "GPSLatitude": [
-              47,
-              19,
-              5.54
-            ],
-            "GPSLongitudeRef": "W",
-            "GPSLongitude": [
-              120,
-              34,
-              41.26
-            ],
-            "GPSAltitudeRef": 0,
-            "GPSAltitude": 1396,
-            "GPSTimeStamp": [
-              17,
-              29,
-              23
-            ],
-            "GPSProcessingMethod": "ASCII\u0000\u0000\u0000GPS",
-            "GPSDateStamp": "2014:05:10"
-          },
-          "interoperability": {
-            "InteropIndex": "R98",
-            "InteropVersion": [
-              48,
-              49,
-              48,
-              48
-            ]
-          }
-        },
-        "gpsTime": 1399742963000,
-        "gpsTimeStr": "Sat May 10 2014 10:29:23 GMT-0700 (PDT)",
-        "imgTime": 1399745401000,
-        "imgTimeStr": "Sat May 10 2014 11:10:01 GMT-0700 (PDT)",
-        "imgPath": "img/2014-05-10 11.10.01.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.57812777777778,
-          47.31820555555556,
-          1396
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "exif": {
-          "image": {
-            "ImageWidth": 3264,
-            "ImageHeight": 2448,
-            "Make": "SAMSUNG",
-            "Model": "SCH-I535\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-            "Orientation": 1,
-            "XResolution": 72,
-            "YResolution": 72,
-            "ResolutionUnit": 2,
-            "Software": "I535VRUCML1",
             "ModifyDate": "2014:05:10 11:10:04",
             "YCbCrPositioning": 1,
             "ExifOffset": 242,
@@ -2313,6 +2184,135 @@
         "imgTime": 1399745404000,
         "imgTimeStr": "Sat May 10 2014 11:10:04 GMT-0700 (PDT)",
         "imgPath": "img/2014-05-10 11.10.04.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.57812777777778,
+          47.31820555555556,
+          1396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "exif": {
+          "image": {
+            "ImageWidth": 3264,
+            "ImageHeight": 2448,
+            "Make": "SAMSUNG",
+            "Model": "SCH-I535\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+            "Orientation": 1,
+            "XResolution": 72,
+            "YResolution": 72,
+            "ResolutionUnit": 2,
+            "Software": "I535VRUCML1",
+            "ModifyDate": "2014:05:10 11:10:01",
+            "YCbCrPositioning": 1,
+            "ExifOffset": 242,
+            "GPSInfo": 4942
+          },
+          "thumbnail": {
+            "ImageWidth": 160,
+            "ImageHeight": 120,
+            "Compression": 6,
+            "Orientation": 1,
+            "XResolution": 72,
+            "YResolution": 72,
+            "ResolutionUnit": 2,
+            "ThumbnailOffset": 5302,
+            "ThumbnailLength": 7688
+          },
+          "exif": {
+            "ExposureTime": 0.011764705882352941,
+            "FNumber": 2.6,
+            "ExposureProgram": 3,
+            "ISO": 80,
+            "ExifVersion": [
+              48,
+              50,
+              50,
+              48
+            ],
+            "DateTimeOriginal": "2014:05:10 11:10:01",
+            "CreateDate": "2014:05:10 11:10:01",
+            "ComponentsConfiguration": [
+              1,
+              2,
+              3,
+              0
+            ],
+            "ShutterSpeedValue": 6.40625,
+            "ApertureValue": 2.76,
+            "BrightnessValue": 4.60546875,
+            "ExposureCompensation": 0,
+            "MaxApertureValue": 2.76,
+            "MeteringMode": 2,
+            "LightSource": 0,
+            "Flash": 0,
+            "FocalLength": 3.7,
+            "FlashpixVersion": [
+              48,
+              49,
+              48,
+              48
+            ],
+            "ColorSpace": 1,
+            "ExifImageWidth": 2448,
+            "ExifImageHeight": 3264,
+            "InteropOffset": 4912,
+            "SensingMethod": 2,
+            "SceneType": 1,
+            "ExposureMode": 0,
+            "WhiteBalance": 0,
+            "SceneCaptureType": 0,
+            "ImageUniqueID": "ZDFI02"
+          },
+          "gps": {
+            "GPSVersionID": [
+              2,
+              2,
+              0,
+              0
+            ],
+            "GPSLatitudeRef": "N",
+            "GPSLatitude": [
+              47,
+              19,
+              5.54
+            ],
+            "GPSLongitudeRef": "W",
+            "GPSLongitude": [
+              120,
+              34,
+              41.26
+            ],
+            "GPSAltitudeRef": 0,
+            "GPSAltitude": 1396,
+            "GPSTimeStamp": [
+              17,
+              29,
+              23
+            ],
+            "GPSProcessingMethod": "ASCII\u0000\u0000\u0000GPS",
+            "GPSDateStamp": "2014:05:10"
+          },
+          "interoperability": {
+            "InteropIndex": "R98",
+            "InteropVersion": [
+              48,
+              49,
+              48,
+              48
+            ]
+          }
+        },
+        "gpsTime": 1399742963000,
+        "gpsTimeStr": "Sat May 10 2014 10:29:23 GMT-0700 (PDT)",
+        "imgTime": 1399745401000,
+        "imgTimeStr": "Sat May 10 2014 11:10:01 GMT-0700 (PDT)",
+        "imgPath": "img/2014-05-10 11.10.01.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -2724,135 +2724,6 @@
             "YResolution": 72,
             "ResolutionUnit": 2,
             "Software": "I535VRUCML1",
-            "ModifyDate": "2014:05:10 11:11:54",
-            "YCbCrPositioning": 1,
-            "ExifOffset": 242,
-            "GPSInfo": 4942
-          },
-          "thumbnail": {
-            "ImageWidth": 160,
-            "ImageHeight": 120,
-            "Compression": 6,
-            "Orientation": 1,
-            "XResolution": 72,
-            "YResolution": 72,
-            "ResolutionUnit": 2,
-            "ThumbnailOffset": 5302,
-            "ThumbnailLength": 7484
-          },
-          "exif": {
-            "ExposureTime": 0.00510204081632653,
-            "FNumber": 2.6,
-            "ExposureProgram": 3,
-            "ISO": 80,
-            "ExifVersion": [
-              48,
-              50,
-              50,
-              48
-            ],
-            "DateTimeOriginal": "2014:05:10 11:11:54",
-            "CreateDate": "2014:05:10 11:11:54",
-            "ComponentsConfiguration": [
-              1,
-              2,
-              3,
-              0
-            ],
-            "ShutterSpeedValue": 7.6171875,
-            "ApertureValue": 2.76,
-            "BrightnessValue": 5.87890625,
-            "ExposureCompensation": 0,
-            "MaxApertureValue": 2.76,
-            "MeteringMode": 2,
-            "LightSource": 0,
-            "Flash": 0,
-            "FocalLength": 3.7,
-            "FlashpixVersion": [
-              48,
-              49,
-              48,
-              48
-            ],
-            "ColorSpace": 1,
-            "ExifImageWidth": 3264,
-            "ExifImageHeight": 2448,
-            "InteropOffset": 4912,
-            "SensingMethod": 2,
-            "SceneType": 1,
-            "ExposureMode": 0,
-            "WhiteBalance": 0,
-            "SceneCaptureType": 0,
-            "ImageUniqueID": "ZDFI02"
-          },
-          "gps": {
-            "GPSVersionID": [
-              2,
-              2,
-              0,
-              0
-            ],
-            "GPSLatitudeRef": "N",
-            "GPSLatitude": [
-              47,
-              19,
-              5.54
-            ],
-            "GPSLongitudeRef": "W",
-            "GPSLongitude": [
-              120,
-              34,
-              41.26
-            ],
-            "GPSAltitudeRef": 0,
-            "GPSAltitude": 1396,
-            "GPSTimeStamp": [
-              17,
-              29,
-              23
-            ],
-            "GPSProcessingMethod": "ASCII\u0000\u0000\u0000GPS",
-            "GPSDateStamp": "2014:05:10"
-          },
-          "interoperability": {
-            "InteropIndex": "R98",
-            "InteropVersion": [
-              48,
-              49,
-              48,
-              48
-            ]
-          }
-        },
-        "gpsTime": 1399742963000,
-        "gpsTimeStr": "Sat May 10 2014 10:29:23 GMT-0700 (PDT)",
-        "imgTime": 1399745514000,
-        "imgTimeStr": "Sat May 10 2014 11:11:54 GMT-0700 (PDT)",
-        "imgPath": "img/2014-05-10 11.11.54.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.57812777777778,
-          47.31820555555556,
-          1396
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "exif": {
-          "image": {
-            "ImageWidth": 3264,
-            "ImageHeight": 2448,
-            "Make": "SAMSUNG",
-            "Model": "SCH-I535\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-            "Orientation": 1,
-            "XResolution": 72,
-            "YResolution": 72,
-            "ResolutionUnit": 2,
-            "Software": "I535VRUCML1",
             "ModifyDate": "2014:05:10 11:12:26",
             "YCbCrPositioning": 1,
             "ExifOffset": 242,
@@ -2958,6 +2829,135 @@
         "imgTime": 1399745546000,
         "imgTimeStr": "Sat May 10 2014 11:12:26 GMT-0700 (PDT)",
         "imgPath": "img/2014-05-10 11.12.26.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.57812777777778,
+          47.31820555555556,
+          1396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "exif": {
+          "image": {
+            "ImageWidth": 3264,
+            "ImageHeight": 2448,
+            "Make": "SAMSUNG",
+            "Model": "SCH-I535\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+            "Orientation": 1,
+            "XResolution": 72,
+            "YResolution": 72,
+            "ResolutionUnit": 2,
+            "Software": "I535VRUCML1",
+            "ModifyDate": "2014:05:10 11:11:54",
+            "YCbCrPositioning": 1,
+            "ExifOffset": 242,
+            "GPSInfo": 4942
+          },
+          "thumbnail": {
+            "ImageWidth": 160,
+            "ImageHeight": 120,
+            "Compression": 6,
+            "Orientation": 1,
+            "XResolution": 72,
+            "YResolution": 72,
+            "ResolutionUnit": 2,
+            "ThumbnailOffset": 5302,
+            "ThumbnailLength": 7484
+          },
+          "exif": {
+            "ExposureTime": 0.00510204081632653,
+            "FNumber": 2.6,
+            "ExposureProgram": 3,
+            "ISO": 80,
+            "ExifVersion": [
+              48,
+              50,
+              50,
+              48
+            ],
+            "DateTimeOriginal": "2014:05:10 11:11:54",
+            "CreateDate": "2014:05:10 11:11:54",
+            "ComponentsConfiguration": [
+              1,
+              2,
+              3,
+              0
+            ],
+            "ShutterSpeedValue": 7.6171875,
+            "ApertureValue": 2.76,
+            "BrightnessValue": 5.87890625,
+            "ExposureCompensation": 0,
+            "MaxApertureValue": 2.76,
+            "MeteringMode": 2,
+            "LightSource": 0,
+            "Flash": 0,
+            "FocalLength": 3.7,
+            "FlashpixVersion": [
+              48,
+              49,
+              48,
+              48
+            ],
+            "ColorSpace": 1,
+            "ExifImageWidth": 3264,
+            "ExifImageHeight": 2448,
+            "InteropOffset": 4912,
+            "SensingMethod": 2,
+            "SceneType": 1,
+            "ExposureMode": 0,
+            "WhiteBalance": 0,
+            "SceneCaptureType": 0,
+            "ImageUniqueID": "ZDFI02"
+          },
+          "gps": {
+            "GPSVersionID": [
+              2,
+              2,
+              0,
+              0
+            ],
+            "GPSLatitudeRef": "N",
+            "GPSLatitude": [
+              47,
+              19,
+              5.54
+            ],
+            "GPSLongitudeRef": "W",
+            "GPSLongitude": [
+              120,
+              34,
+              41.26
+            ],
+            "GPSAltitudeRef": 0,
+            "GPSAltitude": 1396,
+            "GPSTimeStamp": [
+              17,
+              29,
+              23
+            ],
+            "GPSProcessingMethod": "ASCII\u0000\u0000\u0000GPS",
+            "GPSDateStamp": "2014:05:10"
+          },
+          "interoperability": {
+            "InteropIndex": "R98",
+            "InteropVersion": [
+              48,
+              49,
+              48,
+              48
+            ]
+          }
+        },
+        "gpsTime": 1399742963000,
+        "gpsTimeStr": "Sat May 10 2014 10:29:23 GMT-0700 (PDT)",
+        "imgTime": 1399745514000,
+        "imgTimeStr": "Sat May 10 2014 11:11:54 GMT-0700 (PDT)",
+        "imgPath": "img/2014-05-10 11.11.54.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -3111,135 +3111,6 @@
             "YResolution": 72,
             "ResolutionUnit": 2,
             "Software": "I535VRUCML1",
-            "ModifyDate": "2014:05:10 11:36:41",
-            "YCbCrPositioning": 1,
-            "ExifOffset": 242,
-            "GPSInfo": 4942
-          },
-          "thumbnail": {
-            "ImageWidth": 160,
-            "ImageHeight": 120,
-            "Compression": 6,
-            "Orientation": 1,
-            "XResolution": 72,
-            "YResolution": 72,
-            "ResolutionUnit": 2,
-            "ThumbnailOffset": 5302,
-            "ThumbnailLength": 8956
-          },
-          "exif": {
-            "ExposureTime": 0.012048192771084338,
-            "FNumber": 2.6,
-            "ExposureProgram": 3,
-            "ISO": 80,
-            "ExifVersion": [
-              48,
-              50,
-              50,
-              48
-            ],
-            "DateTimeOriginal": "2014:05:10 11:36:41",
-            "CreateDate": "2014:05:10 11:36:41",
-            "ComponentsConfiguration": [
-              1,
-              2,
-              3,
-              0
-            ],
-            "ShutterSpeedValue": 6.37890625,
-            "ApertureValue": 2.76,
-            "BrightnessValue": 4.65625,
-            "ExposureCompensation": 0,
-            "MaxApertureValue": 2.76,
-            "MeteringMode": 2,
-            "LightSource": 0,
-            "Flash": 0,
-            "FocalLength": 3.7,
-            "FlashpixVersion": [
-              48,
-              49,
-              48,
-              48
-            ],
-            "ColorSpace": 1,
-            "ExifImageWidth": 3264,
-            "ExifImageHeight": 2448,
-            "InteropOffset": 4912,
-            "SensingMethod": 2,
-            "SceneType": 1,
-            "ExposureMode": 0,
-            "WhiteBalance": 0,
-            "SceneCaptureType": 0,
-            "ImageUniqueID": "ZDFI02"
-          },
-          "gps": {
-            "GPSVersionID": [
-              2,
-              2,
-              0,
-              0
-            ],
-            "GPSLatitudeRef": "N",
-            "GPSLatitude": [
-              47,
-              19,
-              5.54
-            ],
-            "GPSLongitudeRef": "W",
-            "GPSLongitude": [
-              120,
-              34,
-              41.26
-            ],
-            "GPSAltitudeRef": 0,
-            "GPSAltitude": 1396,
-            "GPSTimeStamp": [
-              17,
-              29,
-              23
-            ],
-            "GPSProcessingMethod": "ASCII\u0000\u0000\u0000GPS",
-            "GPSDateStamp": "2014:05:10"
-          },
-          "interoperability": {
-            "InteropIndex": "R98",
-            "InteropVersion": [
-              48,
-              49,
-              48,
-              48
-            ]
-          }
-        },
-        "gpsTime": 1399742963000,
-        "gpsTimeStr": "Sat May 10 2014 10:29:23 GMT-0700 (PDT)",
-        "imgTime": 1399747001000,
-        "imgTimeStr": "Sat May 10 2014 11:36:41 GMT-0700 (PDT)",
-        "imgPath": "img/2014-05-10 11.36.41.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.57812777777778,
-          47.31820555555556,
-          1396
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "exif": {
-          "image": {
-            "ImageWidth": 3264,
-            "ImageHeight": 2448,
-            "Make": "SAMSUNG",
-            "Model": "SCH-I535\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-            "Orientation": 1,
-            "XResolution": 72,
-            "YResolution": 72,
-            "ResolutionUnit": 2,
-            "Software": "I535VRUCML1",
             "ModifyDate": "2014:05:10 11:37:42",
             "YCbCrPositioning": 1,
             "ExifOffset": 242,
@@ -3369,7 +3240,7 @@
             "YResolution": 72,
             "ResolutionUnit": 2,
             "Software": "I535VRUCML1",
-            "ModifyDate": "2014:05:10 11:40:18",
+            "ModifyDate": "2014:05:10 11:36:41",
             "YCbCrPositioning": 1,
             "ExifOffset": 242,
             "GPSInfo": 4942
@@ -3383,10 +3254,10 @@
             "YResolution": 72,
             "ResolutionUnit": 2,
             "ThumbnailOffset": 5302,
-            "ThumbnailLength": 8041
+            "ThumbnailLength": 8956
           },
           "exif": {
-            "ExposureTime": 0.010416666666666666,
+            "ExposureTime": 0.012048192771084338,
             "FNumber": 2.6,
             "ExposureProgram": 3,
             "ISO": 80,
@@ -3396,17 +3267,17 @@
               50,
               48
             ],
-            "DateTimeOriginal": "2014:05:10 11:40:18",
-            "CreateDate": "2014:05:10 11:40:18",
+            "DateTimeOriginal": "2014:05:10 11:36:41",
+            "CreateDate": "2014:05:10 11:36:41",
             "ComponentsConfiguration": [
               1,
               2,
               3,
               0
             ],
-            "ShutterSpeedValue": 6.58203125,
+            "ShutterSpeedValue": 6.37890625,
             "ApertureValue": 2.76,
-            "BrightnessValue": 4.8671875,
+            "BrightnessValue": 4.65625,
             "ExposureCompensation": 0,
             "MaxApertureValue": 2.76,
             "MeteringMode": 2,
@@ -3420,8 +3291,8 @@
               48
             ],
             "ColorSpace": 1,
-            "ExifImageWidth": 2448,
-            "ExifImageHeight": 3264,
+            "ExifImageWidth": 3264,
+            "ExifImageHeight": 2448,
             "InteropOffset": 4912,
             "SensingMethod": 2,
             "SceneType": 1,
@@ -3471,9 +3342,9 @@
         },
         "gpsTime": 1399742963000,
         "gpsTimeStr": "Sat May 10 2014 10:29:23 GMT-0700 (PDT)",
-        "imgTime": 1399747218000,
-        "imgTimeStr": "Sat May 10 2014 11:40:18 GMT-0700 (PDT)",
-        "imgPath": "img/2014-05-10 11.40.18.jpg"
+        "imgTime": 1399747001000,
+        "imgTimeStr": "Sat May 10 2014 11:36:41 GMT-0700 (PDT)",
+        "imgPath": "img/2014-05-10 11.36.41.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -3756,6 +3627,135 @@
             "YResolution": 72,
             "ResolutionUnit": 2,
             "Software": "I535VRUCML1",
+            "ModifyDate": "2014:05:10 11:40:18",
+            "YCbCrPositioning": 1,
+            "ExifOffset": 242,
+            "GPSInfo": 4942
+          },
+          "thumbnail": {
+            "ImageWidth": 160,
+            "ImageHeight": 120,
+            "Compression": 6,
+            "Orientation": 1,
+            "XResolution": 72,
+            "YResolution": 72,
+            "ResolutionUnit": 2,
+            "ThumbnailOffset": 5302,
+            "ThumbnailLength": 8041
+          },
+          "exif": {
+            "ExposureTime": 0.010416666666666666,
+            "FNumber": 2.6,
+            "ExposureProgram": 3,
+            "ISO": 80,
+            "ExifVersion": [
+              48,
+              50,
+              50,
+              48
+            ],
+            "DateTimeOriginal": "2014:05:10 11:40:18",
+            "CreateDate": "2014:05:10 11:40:18",
+            "ComponentsConfiguration": [
+              1,
+              2,
+              3,
+              0
+            ],
+            "ShutterSpeedValue": 6.58203125,
+            "ApertureValue": 2.76,
+            "BrightnessValue": 4.8671875,
+            "ExposureCompensation": 0,
+            "MaxApertureValue": 2.76,
+            "MeteringMode": 2,
+            "LightSource": 0,
+            "Flash": 0,
+            "FocalLength": 3.7,
+            "FlashpixVersion": [
+              48,
+              49,
+              48,
+              48
+            ],
+            "ColorSpace": 1,
+            "ExifImageWidth": 2448,
+            "ExifImageHeight": 3264,
+            "InteropOffset": 4912,
+            "SensingMethod": 2,
+            "SceneType": 1,
+            "ExposureMode": 0,
+            "WhiteBalance": 0,
+            "SceneCaptureType": 0,
+            "ImageUniqueID": "ZDFI02"
+          },
+          "gps": {
+            "GPSVersionID": [
+              2,
+              2,
+              0,
+              0
+            ],
+            "GPSLatitudeRef": "N",
+            "GPSLatitude": [
+              47,
+              19,
+              5.54
+            ],
+            "GPSLongitudeRef": "W",
+            "GPSLongitude": [
+              120,
+              34,
+              41.26
+            ],
+            "GPSAltitudeRef": 0,
+            "GPSAltitude": 1396,
+            "GPSTimeStamp": [
+              17,
+              29,
+              23
+            ],
+            "GPSProcessingMethod": "ASCII\u0000\u0000\u0000GPS",
+            "GPSDateStamp": "2014:05:10"
+          },
+          "interoperability": {
+            "InteropIndex": "R98",
+            "InteropVersion": [
+              48,
+              49,
+              48,
+              48
+            ]
+          }
+        },
+        "gpsTime": 1399742963000,
+        "gpsTimeStr": "Sat May 10 2014 10:29:23 GMT-0700 (PDT)",
+        "imgTime": 1399747218000,
+        "imgTimeStr": "Sat May 10 2014 11:40:18 GMT-0700 (PDT)",
+        "imgPath": "img/2014-05-10 11.40.18.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.57812777777778,
+          47.31820555555556,
+          1396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "exif": {
+          "image": {
+            "ImageWidth": 3264,
+            "ImageHeight": 2448,
+            "Make": "SAMSUNG",
+            "Model": "SCH-I535\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+            "Orientation": 1,
+            "XResolution": 72,
+            "YResolution": 72,
+            "ResolutionUnit": 2,
+            "Software": "I535VRUCML1",
             "ModifyDate": "2014:05:10 11:44:07",
             "YCbCrPositioning": 1,
             "ExifOffset": 242,
@@ -3990,6 +3990,135 @@
         "imgTime": 1399747462000,
         "imgTimeStr": "Sat May 10 2014 11:44:22 GMT-0700 (PDT)",
         "imgPath": "img/2014-05-10 11.44.22.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.57812777777778,
+          47.31820555555556,
+          1396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "exif": {
+          "image": {
+            "ImageWidth": 3264,
+            "ImageHeight": 2448,
+            "Make": "SAMSUNG",
+            "Model": "SCH-I535\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+            "Orientation": 1,
+            "XResolution": 72,
+            "YResolution": 72,
+            "ResolutionUnit": 2,
+            "Software": "I535VRUCML1",
+            "ModifyDate": "2014:05:10 11:47:25",
+            "YCbCrPositioning": 1,
+            "ExifOffset": 242,
+            "GPSInfo": 4942
+          },
+          "thumbnail": {
+            "ImageWidth": 160,
+            "ImageHeight": 120,
+            "Compression": 6,
+            "Orientation": 1,
+            "XResolution": 72,
+            "YResolution": 72,
+            "ResolutionUnit": 2,
+            "ThumbnailOffset": 5302,
+            "ThumbnailLength": 8460
+          },
+          "exif": {
+            "ExposureTime": 0.001002004008016032,
+            "FNumber": 2.6,
+            "ExposureProgram": 3,
+            "ISO": 80,
+            "ExifVersion": [
+              48,
+              50,
+              50,
+              48
+            ],
+            "DateTimeOriginal": "2014:05:10 11:47:25",
+            "CreateDate": "2014:05:10 11:47:25",
+            "ComponentsConfiguration": [
+              1,
+              2,
+              3,
+              0
+            ],
+            "ShutterSpeedValue": 9.96484375,
+            "ApertureValue": 2.76,
+            "BrightnessValue": 8.21484375,
+            "ExposureCompensation": 0,
+            "MaxApertureValue": 2.76,
+            "MeteringMode": 2,
+            "LightSource": 0,
+            "Flash": 0,
+            "FocalLength": 3.7,
+            "FlashpixVersion": [
+              48,
+              49,
+              48,
+              48
+            ],
+            "ColorSpace": 1,
+            "ExifImageWidth": 3264,
+            "ExifImageHeight": 2448,
+            "InteropOffset": 4912,
+            "SensingMethod": 2,
+            "SceneType": 1,
+            "ExposureMode": 0,
+            "WhiteBalance": 0,
+            "SceneCaptureType": 0,
+            "ImageUniqueID": "ZDFI02"
+          },
+          "gps": {
+            "GPSVersionID": [
+              2,
+              2,
+              0,
+              0
+            ],
+            "GPSLatitudeRef": "N",
+            "GPSLatitude": [
+              47,
+              19,
+              5.54
+            ],
+            "GPSLongitudeRef": "W",
+            "GPSLongitude": [
+              120,
+              34,
+              41.26
+            ],
+            "GPSAltitudeRef": 0,
+            "GPSAltitude": 1396,
+            "GPSTimeStamp": [
+              17,
+              29,
+              23
+            ],
+            "GPSProcessingMethod": "ASCII\u0000\u0000\u0000GPS",
+            "GPSDateStamp": "2014:05:10"
+          },
+          "interoperability": {
+            "InteropIndex": "R98",
+            "InteropVersion": [
+              48,
+              49,
+              48,
+              48
+            ]
+          }
+        },
+        "gpsTime": 1399742963000,
+        "gpsTimeStr": "Sat May 10 2014 10:29:23 GMT-0700 (PDT)",
+        "imgTime": 1399747645000,
+        "imgTimeStr": "Sat May 10 2014 11:47:25 GMT-0700 (PDT)",
+        "imgPath": "img/2014-05-10 11.47.25.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -4272,135 +4401,6 @@
             "YResolution": 72,
             "ResolutionUnit": 2,
             "Software": "I535VRUCML1",
-            "ModifyDate": "2014:05:10 11:47:25",
-            "YCbCrPositioning": 1,
-            "ExifOffset": 242,
-            "GPSInfo": 4942
-          },
-          "thumbnail": {
-            "ImageWidth": 160,
-            "ImageHeight": 120,
-            "Compression": 6,
-            "Orientation": 1,
-            "XResolution": 72,
-            "YResolution": 72,
-            "ResolutionUnit": 2,
-            "ThumbnailOffset": 5302,
-            "ThumbnailLength": 8460
-          },
-          "exif": {
-            "ExposureTime": 0.001002004008016032,
-            "FNumber": 2.6,
-            "ExposureProgram": 3,
-            "ISO": 80,
-            "ExifVersion": [
-              48,
-              50,
-              50,
-              48
-            ],
-            "DateTimeOriginal": "2014:05:10 11:47:25",
-            "CreateDate": "2014:05:10 11:47:25",
-            "ComponentsConfiguration": [
-              1,
-              2,
-              3,
-              0
-            ],
-            "ShutterSpeedValue": 9.96484375,
-            "ApertureValue": 2.76,
-            "BrightnessValue": 8.21484375,
-            "ExposureCompensation": 0,
-            "MaxApertureValue": 2.76,
-            "MeteringMode": 2,
-            "LightSource": 0,
-            "Flash": 0,
-            "FocalLength": 3.7,
-            "FlashpixVersion": [
-              48,
-              49,
-              48,
-              48
-            ],
-            "ColorSpace": 1,
-            "ExifImageWidth": 3264,
-            "ExifImageHeight": 2448,
-            "InteropOffset": 4912,
-            "SensingMethod": 2,
-            "SceneType": 1,
-            "ExposureMode": 0,
-            "WhiteBalance": 0,
-            "SceneCaptureType": 0,
-            "ImageUniqueID": "ZDFI02"
-          },
-          "gps": {
-            "GPSVersionID": [
-              2,
-              2,
-              0,
-              0
-            ],
-            "GPSLatitudeRef": "N",
-            "GPSLatitude": [
-              47,
-              19,
-              5.54
-            ],
-            "GPSLongitudeRef": "W",
-            "GPSLongitude": [
-              120,
-              34,
-              41.26
-            ],
-            "GPSAltitudeRef": 0,
-            "GPSAltitude": 1396,
-            "GPSTimeStamp": [
-              17,
-              29,
-              23
-            ],
-            "GPSProcessingMethod": "ASCII\u0000\u0000\u0000GPS",
-            "GPSDateStamp": "2014:05:10"
-          },
-          "interoperability": {
-            "InteropIndex": "R98",
-            "InteropVersion": [
-              48,
-              49,
-              48,
-              48
-            ]
-          }
-        },
-        "gpsTime": 1399742963000,
-        "gpsTimeStr": "Sat May 10 2014 10:29:23 GMT-0700 (PDT)",
-        "imgTime": 1399747645000,
-        "imgTimeStr": "Sat May 10 2014 11:47:25 GMT-0700 (PDT)",
-        "imgPath": "img/2014-05-10 11.47.25.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.57812777777778,
-          47.31820555555556,
-          1396
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "exif": {
-          "image": {
-            "ImageWidth": 3264,
-            "ImageHeight": 2448,
-            "Make": "SAMSUNG",
-            "Model": "SCH-I535\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-            "Orientation": 1,
-            "XResolution": 72,
-            "YResolution": 72,
-            "ResolutionUnit": 2,
-            "Software": "I535VRUCML1",
             "ModifyDate": "2014:05:10 11:58:41",
             "YCbCrPositioning": 1,
             "ExifOffset": 242,
@@ -4506,6 +4506,135 @@
         "imgTime": 1399748321000,
         "imgTimeStr": "Sat May 10 2014 11:58:41 GMT-0700 (PDT)",
         "imgPath": "img/2014-05-10 11.58.41.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.57812777777778,
+          47.31820555555556,
+          1396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "exif": {
+          "image": {
+            "ImageWidth": 3264,
+            "ImageHeight": 2448,
+            "Make": "SAMSUNG",
+            "Model": "SCH-I535\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+            "Orientation": 1,
+            "XResolution": 72,
+            "YResolution": 72,
+            "ResolutionUnit": 2,
+            "Software": "I535VRUCML1",
+            "ModifyDate": "2014:05:10 12:12:39",
+            "YCbCrPositioning": 1,
+            "ExifOffset": 242,
+            "GPSInfo": 4942
+          },
+          "thumbnail": {
+            "ImageWidth": 160,
+            "ImageHeight": 120,
+            "Compression": 6,
+            "Orientation": 1,
+            "XResolution": 72,
+            "YResolution": 72,
+            "ResolutionUnit": 2,
+            "ThumbnailOffset": 5302,
+            "ThumbnailLength": 5774
+          },
+          "exif": {
+            "ExposureTime": 0.015384615384615385,
+            "FNumber": 2.6,
+            "ExposureProgram": 3,
+            "ISO": 80,
+            "ExifVersion": [
+              48,
+              50,
+              50,
+              48
+            ],
+            "DateTimeOriginal": "2014:05:10 12:12:39",
+            "CreateDate": "2014:05:10 12:12:39",
+            "ComponentsConfiguration": [
+              1,
+              2,
+              3,
+              0
+            ],
+            "ShutterSpeedValue": 6.015625,
+            "ApertureValue": 2.76,
+            "BrightnessValue": 4.19921875,
+            "ExposureCompensation": 0,
+            "MaxApertureValue": 2.76,
+            "MeteringMode": 2,
+            "LightSource": 0,
+            "Flash": 0,
+            "FocalLength": 3.7,
+            "FlashpixVersion": [
+              48,
+              49,
+              48,
+              48
+            ],
+            "ColorSpace": 1,
+            "ExifImageWidth": 2448,
+            "ExifImageHeight": 3264,
+            "InteropOffset": 4912,
+            "SensingMethod": 2,
+            "SceneType": 1,
+            "ExposureMode": 0,
+            "WhiteBalance": 0,
+            "SceneCaptureType": 0,
+            "ImageUniqueID": "ZDFI02"
+          },
+          "gps": {
+            "GPSVersionID": [
+              2,
+              2,
+              0,
+              0
+            ],
+            "GPSLatitudeRef": "N",
+            "GPSLatitude": [
+              47,
+              19,
+              5.54
+            ],
+            "GPSLongitudeRef": "W",
+            "GPSLongitude": [
+              120,
+              34,
+              41.26
+            ],
+            "GPSAltitudeRef": 0,
+            "GPSAltitude": 1396,
+            "GPSTimeStamp": [
+              17,
+              29,
+              23
+            ],
+            "GPSProcessingMethod": "ASCII\u0000\u0000\u0000GPS",
+            "GPSDateStamp": "2014:05:10"
+          },
+          "interoperability": {
+            "InteropIndex": "R98",
+            "InteropVersion": [
+              48,
+              49,
+              48,
+              48
+            ]
+          }
+        },
+        "gpsTime": 1399742963000,
+        "gpsTimeStr": "Sat May 10 2014 10:29:23 GMT-0700 (PDT)",
+        "imgTime": 1399749159000,
+        "imgTimeStr": "Sat May 10 2014 12:12:39 GMT-0700 (PDT)",
+        "imgPath": "img/2014-05-10 12.12.39.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -4788,7 +4917,7 @@
             "YResolution": 72,
             "ResolutionUnit": 2,
             "Software": "I535VRUCML1",
-            "ModifyDate": "2014:05:10 12:12:39",
+            "ModifyDate": "2014:05:10 12:12:50",
             "YCbCrPositioning": 1,
             "ExifOffset": 242,
             "GPSInfo": 4942
@@ -4802,10 +4931,10 @@
             "YResolution": 72,
             "ResolutionUnit": 2,
             "ThumbnailOffset": 5302,
-            "ThumbnailLength": 5774
+            "ThumbnailLength": 6616
           },
           "exif": {
-            "ExposureTime": 0.015384615384615385,
+            "ExposureTime": 0.013333333333333334,
             "FNumber": 2.6,
             "ExposureProgram": 3,
             "ISO": 80,
@@ -4815,17 +4944,17 @@
               50,
               48
             ],
-            "DateTimeOriginal": "2014:05:10 12:12:39",
-            "CreateDate": "2014:05:10 12:12:39",
+            "DateTimeOriginal": "2014:05:10 12:12:50",
+            "CreateDate": "2014:05:10 12:12:50",
             "ComponentsConfiguration": [
               1,
               2,
               3,
               0
             ],
-            "ShutterSpeedValue": 6.015625,
+            "ShutterSpeedValue": 6.234375,
             "ApertureValue": 2.76,
-            "BrightnessValue": 4.19921875,
+            "BrightnessValue": 4.4609375,
             "ExposureCompensation": 0,
             "MaxApertureValue": 2.76,
             "MeteringMode": 2,
@@ -4839,8 +4968,8 @@
               48
             ],
             "ColorSpace": 1,
-            "ExifImageWidth": 2448,
-            "ExifImageHeight": 3264,
+            "ExifImageWidth": 3264,
+            "ExifImageHeight": 2448,
             "InteropOffset": 4912,
             "SensingMethod": 2,
             "SceneType": 1,
@@ -4890,9 +5019,138 @@
         },
         "gpsTime": 1399742963000,
         "gpsTimeStr": "Sat May 10 2014 10:29:23 GMT-0700 (PDT)",
-        "imgTime": 1399749159000,
-        "imgTimeStr": "Sat May 10 2014 12:12:39 GMT-0700 (PDT)",
-        "imgPath": "img/2014-05-10 12.12.39.jpg"
+        "imgTime": 1399749170000,
+        "imgTimeStr": "Sat May 10 2014 12:12:50 GMT-0700 (PDT)",
+        "imgPath": "img/2014-05-10 12.12.50.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.57812777777778,
+          47.31820555555556,
+          1396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "exif": {
+          "image": {
+            "ImageWidth": 3264,
+            "ImageHeight": 2448,
+            "Make": "SAMSUNG",
+            "Model": "SCH-I535\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+            "Orientation": 1,
+            "XResolution": 72,
+            "YResolution": 72,
+            "ResolutionUnit": 2,
+            "Software": "I535VRUCML1",
+            "ModifyDate": "2014:05:10 12:13:04",
+            "YCbCrPositioning": 1,
+            "ExifOffset": 242,
+            "GPSInfo": 4942
+          },
+          "thumbnail": {
+            "ImageWidth": 160,
+            "ImageHeight": 120,
+            "Compression": 6,
+            "Orientation": 1,
+            "XResolution": 72,
+            "YResolution": 72,
+            "ResolutionUnit": 2,
+            "ThumbnailOffset": 5302,
+            "ThumbnailLength": 6649
+          },
+          "exif": {
+            "ExposureTime": 0.011363636363636364,
+            "FNumber": 2.6,
+            "ExposureProgram": 3,
+            "ISO": 80,
+            "ExifVersion": [
+              48,
+              50,
+              50,
+              48
+            ],
+            "DateTimeOriginal": "2014:05:10 12:13:04",
+            "CreateDate": "2014:05:10 12:13:04",
+            "ComponentsConfiguration": [
+              1,
+              2,
+              3,
+              0
+            ],
+            "ShutterSpeedValue": 6.46484375,
+            "ApertureValue": 2.76,
+            "BrightnessValue": 4.64453125,
+            "ExposureCompensation": 0,
+            "MaxApertureValue": 2.76,
+            "MeteringMode": 2,
+            "LightSource": 0,
+            "Flash": 0,
+            "FocalLength": 3.7,
+            "FlashpixVersion": [
+              48,
+              49,
+              48,
+              48
+            ],
+            "ColorSpace": 1,
+            "ExifImageWidth": 3264,
+            "ExifImageHeight": 2448,
+            "InteropOffset": 4912,
+            "SensingMethod": 2,
+            "SceneType": 1,
+            "ExposureMode": 0,
+            "WhiteBalance": 0,
+            "SceneCaptureType": 0,
+            "ImageUniqueID": "ZDFI02"
+          },
+          "gps": {
+            "GPSVersionID": [
+              2,
+              2,
+              0,
+              0
+            ],
+            "GPSLatitudeRef": "N",
+            "GPSLatitude": [
+              47,
+              19,
+              5.54
+            ],
+            "GPSLongitudeRef": "W",
+            "GPSLongitude": [
+              120,
+              34,
+              41.26
+            ],
+            "GPSAltitudeRef": 0,
+            "GPSAltitude": 1396,
+            "GPSTimeStamp": [
+              17,
+              29,
+              23
+            ],
+            "GPSProcessingMethod": "ASCII\u0000\u0000\u0000GPS",
+            "GPSDateStamp": "2014:05:10"
+          },
+          "interoperability": {
+            "InteropIndex": "R98",
+            "InteropVersion": [
+              48,
+              49,
+              48,
+              48
+            ]
+          }
+        },
+        "gpsTime": 1399742963000,
+        "gpsTimeStr": "Sat May 10 2014 10:29:23 GMT-0700 (PDT)",
+        "imgTime": 1399749184000,
+        "imgTimeStr": "Sat May 10 2014 12:13:04 GMT-0700 (PDT)",
+        "imgPath": "img/2014-05-10 12.13.04.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -5046,135 +5304,6 @@
             "YResolution": 72,
             "ResolutionUnit": 2,
             "Software": "I535VRUCML1",
-            "ModifyDate": "2014:05:10 12:12:50",
-            "YCbCrPositioning": 1,
-            "ExifOffset": 242,
-            "GPSInfo": 4942
-          },
-          "thumbnail": {
-            "ImageWidth": 160,
-            "ImageHeight": 120,
-            "Compression": 6,
-            "Orientation": 1,
-            "XResolution": 72,
-            "YResolution": 72,
-            "ResolutionUnit": 2,
-            "ThumbnailOffset": 5302,
-            "ThumbnailLength": 6616
-          },
-          "exif": {
-            "ExposureTime": 0.013333333333333334,
-            "FNumber": 2.6,
-            "ExposureProgram": 3,
-            "ISO": 80,
-            "ExifVersion": [
-              48,
-              50,
-              50,
-              48
-            ],
-            "DateTimeOriginal": "2014:05:10 12:12:50",
-            "CreateDate": "2014:05:10 12:12:50",
-            "ComponentsConfiguration": [
-              1,
-              2,
-              3,
-              0
-            ],
-            "ShutterSpeedValue": 6.234375,
-            "ApertureValue": 2.76,
-            "BrightnessValue": 4.4609375,
-            "ExposureCompensation": 0,
-            "MaxApertureValue": 2.76,
-            "MeteringMode": 2,
-            "LightSource": 0,
-            "Flash": 0,
-            "FocalLength": 3.7,
-            "FlashpixVersion": [
-              48,
-              49,
-              48,
-              48
-            ],
-            "ColorSpace": 1,
-            "ExifImageWidth": 3264,
-            "ExifImageHeight": 2448,
-            "InteropOffset": 4912,
-            "SensingMethod": 2,
-            "SceneType": 1,
-            "ExposureMode": 0,
-            "WhiteBalance": 0,
-            "SceneCaptureType": 0,
-            "ImageUniqueID": "ZDFI02"
-          },
-          "gps": {
-            "GPSVersionID": [
-              2,
-              2,
-              0,
-              0
-            ],
-            "GPSLatitudeRef": "N",
-            "GPSLatitude": [
-              47,
-              19,
-              5.54
-            ],
-            "GPSLongitudeRef": "W",
-            "GPSLongitude": [
-              120,
-              34,
-              41.26
-            ],
-            "GPSAltitudeRef": 0,
-            "GPSAltitude": 1396,
-            "GPSTimeStamp": [
-              17,
-              29,
-              23
-            ],
-            "GPSProcessingMethod": "ASCII\u0000\u0000\u0000GPS",
-            "GPSDateStamp": "2014:05:10"
-          },
-          "interoperability": {
-            "InteropIndex": "R98",
-            "InteropVersion": [
-              48,
-              49,
-              48,
-              48
-            ]
-          }
-        },
-        "gpsTime": 1399742963000,
-        "gpsTimeStr": "Sat May 10 2014 10:29:23 GMT-0700 (PDT)",
-        "imgTime": 1399749170000,
-        "imgTimeStr": "Sat May 10 2014 12:12:50 GMT-0700 (PDT)",
-        "imgPath": "img/2014-05-10 12.12.50.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.57812777777778,
-          47.31820555555556,
-          1396
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "exif": {
-          "image": {
-            "ImageWidth": 3264,
-            "ImageHeight": 2448,
-            "Make": "SAMSUNG",
-            "Model": "SCH-I535\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-            "Orientation": 1,
-            "XResolution": 72,
-            "YResolution": 72,
-            "ResolutionUnit": 2,
-            "Software": "I535VRUCML1",
             "ModifyDate": "2014:05:10 14:35:18",
             "YCbCrPositioning": 1,
             "ExifOffset": 242,
@@ -5286,135 +5415,6 @@
         "coordinates": [
           -120.59502499999999,
           47.560603611111105
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "exif": {
-          "image": {
-            "ImageWidth": 3264,
-            "ImageHeight": 2448,
-            "Make": "SAMSUNG",
-            "Model": "SCH-I535\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-            "Orientation": 1,
-            "XResolution": 72,
-            "YResolution": 72,
-            "ResolutionUnit": 2,
-            "Software": "I535VRUCML1",
-            "ModifyDate": "2014:05:10 12:13:04",
-            "YCbCrPositioning": 1,
-            "ExifOffset": 242,
-            "GPSInfo": 4942
-          },
-          "thumbnail": {
-            "ImageWidth": 160,
-            "ImageHeight": 120,
-            "Compression": 6,
-            "Orientation": 1,
-            "XResolution": 72,
-            "YResolution": 72,
-            "ResolutionUnit": 2,
-            "ThumbnailOffset": 5302,
-            "ThumbnailLength": 6649
-          },
-          "exif": {
-            "ExposureTime": 0.011363636363636364,
-            "FNumber": 2.6,
-            "ExposureProgram": 3,
-            "ISO": 80,
-            "ExifVersion": [
-              48,
-              50,
-              50,
-              48
-            ],
-            "DateTimeOriginal": "2014:05:10 12:13:04",
-            "CreateDate": "2014:05:10 12:13:04",
-            "ComponentsConfiguration": [
-              1,
-              2,
-              3,
-              0
-            ],
-            "ShutterSpeedValue": 6.46484375,
-            "ApertureValue": 2.76,
-            "BrightnessValue": 4.64453125,
-            "ExposureCompensation": 0,
-            "MaxApertureValue": 2.76,
-            "MeteringMode": 2,
-            "LightSource": 0,
-            "Flash": 0,
-            "FocalLength": 3.7,
-            "FlashpixVersion": [
-              48,
-              49,
-              48,
-              48
-            ],
-            "ColorSpace": 1,
-            "ExifImageWidth": 3264,
-            "ExifImageHeight": 2448,
-            "InteropOffset": 4912,
-            "SensingMethod": 2,
-            "SceneType": 1,
-            "ExposureMode": 0,
-            "WhiteBalance": 0,
-            "SceneCaptureType": 0,
-            "ImageUniqueID": "ZDFI02"
-          },
-          "gps": {
-            "GPSVersionID": [
-              2,
-              2,
-              0,
-              0
-            ],
-            "GPSLatitudeRef": "N",
-            "GPSLatitude": [
-              47,
-              19,
-              5.54
-            ],
-            "GPSLongitudeRef": "W",
-            "GPSLongitude": [
-              120,
-              34,
-              41.26
-            ],
-            "GPSAltitudeRef": 0,
-            "GPSAltitude": 1396,
-            "GPSTimeStamp": [
-              17,
-              29,
-              23
-            ],
-            "GPSProcessingMethod": "ASCII\u0000\u0000\u0000GPS",
-            "GPSDateStamp": "2014:05:10"
-          },
-          "interoperability": {
-            "InteropIndex": "R98",
-            "InteropVersion": [
-              48,
-              49,
-              48,
-              48
-            ]
-          }
-        },
-        "gpsTime": 1399742963000,
-        "gpsTimeStr": "Sat May 10 2014 10:29:23 GMT-0700 (PDT)",
-        "imgTime": 1399749184000,
-        "imgTimeStr": "Sat May 10 2014 12:13:04 GMT-0700 (PDT)",
-        "imgPath": "img/2014-05-10 12.13.04.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.57812777777778,
-          47.31820555555556,
-          1396
         ]
       }
     },
@@ -5560,7 +5560,7 @@
             "YResolution": 72,
             "ResolutionUnit": 2,
             "Software": "I535VRUCML1",
-            "ModifyDate": "2014:05:10 14:52:35",
+            "ModifyDate": "2014:05:10 14:50:54",
             "YCbCrPositioning": 1,
             "ExifOffset": 242,
             "GPSInfo": 4942
@@ -5574,10 +5574,10 @@
             "YResolution": 72,
             "ResolutionUnit": 2,
             "ThumbnailOffset": 5306,
-            "ThumbnailLength": 5066
+            "ThumbnailLength": 4366
           },
           "exif": {
-            "ExposureTime": 0.0008928571428571428,
+            "ExposureTime": 0.001184834123222749,
             "FNumber": 2.6,
             "ExposureProgram": 3,
             "ISO": 80,
@@ -5587,17 +5587,17 @@
               50,
               48
             ],
-            "DateTimeOriginal": "2014:05:10 14:52:35",
-            "CreateDate": "2014:05:10 14:52:35",
+            "DateTimeOriginal": "2014:05:10 14:50:54",
+            "CreateDate": "2014:05:10 14:50:54",
             "ComponentsConfiguration": [
               1,
               2,
               3,
               0
             ],
-            "ShutterSpeedValue": 10.1328125,
+            "ShutterSpeedValue": 9.72265625,
             "ApertureValue": 2.76,
-            "BrightnessValue": 8.390625,
+            "BrightnessValue": 7.96484375,
             "ExposureCompensation": 0,
             "MaxApertureValue": 2.76,
             "MeteringMode": 2,
@@ -5611,136 +5611,8 @@
               48
             ],
             "ColorSpace": 1,
-            "ExifImageWidth": 3264,
-            "ExifImageHeight": 2448,
-            "InteropOffset": 4912,
-            "SensingMethod": 2,
-            "SceneType": 1,
-            "ExposureMode": 0,
-            "WhiteBalance": 0,
-            "SceneCaptureType": 0,
-            "ImageUniqueID": "ZDFI02"
-          },
-          "gps": {
-            "GPSVersionID": [
-              2,
-              2,
-              0,
-              0
-            ],
-            "GPSLatitudeRef": "N",
-            "GPSLatitude": [
-              47,
-              30,
-              31.315
-            ],
-            "GPSLongitudeRef": "W",
-            "GPSLongitude": [
-              120,
-              28,
-              55.233
-            ],
-            "GPSAltitudeRef": 0,
-            "GPSAltitude": 0,
-            "GPSTimeStamp": [
-              21,
-              52,
-              31
-            ],
-            "GPSProcessingMethod": "ASCII\u0000\u0000\u0000NETWORK",
-            "GPSDateStamp": "2014:05:10"
-          },
-          "interoperability": {
-            "InteropIndex": "R98",
-            "InteropVersion": [
-              48,
-              49,
-              48,
-              48
-            ]
-          }
-        },
-        "gpsTime": 1399758751000,
-        "gpsTimeStr": "Sat May 10 2014 14:52:31 GMT-0700 (PDT)",
-        "imgTime": 1399758755000,
-        "imgTimeStr": "Sat May 10 2014 14:52:35 GMT-0700 (PDT)",
-        "imgPath": "img/2014-05-10 14.52.35.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.48200916666667,
-          47.508698611111114
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "exif": {
-          "image": {
-            "ImageWidth": 3264,
-            "ImageHeight": 2448,
-            "Make": "SAMSUNG",
-            "Model": "SCH-I535\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-            "Orientation": 1,
-            "XResolution": 72,
-            "YResolution": 72,
-            "ResolutionUnit": 2,
-            "Software": "I535VRUCML1",
-            "ModifyDate": "2014:05:10 14:50:47",
-            "YCbCrPositioning": 1,
-            "ExifOffset": 242,
-            "GPSInfo": 4942
-          },
-          "thumbnail": {
-            "ImageWidth": 160,
-            "ImageHeight": 120,
-            "Compression": 6,
-            "Orientation": 1,
-            "XResolution": 72,
-            "YResolution": 72,
-            "ResolutionUnit": 2,
-            "ThumbnailOffset": 5306,
-            "ThumbnailLength": 4447
-          },
-          "exif": {
-            "ExposureTime": 0.0009881422924901185,
-            "FNumber": 2.6,
-            "ExposureProgram": 3,
-            "ISO": 80,
-            "ExifVersion": [
-              48,
-              50,
-              50,
-              48
-            ],
-            "DateTimeOriginal": "2014:05:10 14:50:47",
-            "CreateDate": "2014:05:10 14:50:47",
-            "ComponentsConfiguration": [
-              1,
-              2,
-              3,
-              0
-            ],
-            "ShutterSpeedValue": 9.984375,
-            "ApertureValue": 2.76,
-            "BrightnessValue": 8.18359375,
-            "ExposureCompensation": 0,
-            "MaxApertureValue": 2.76,
-            "MeteringMode": 2,
-            "LightSource": 0,
-            "Flash": 0,
-            "FocalLength": 3.7,
-            "FlashpixVersion": [
-              48,
-              49,
-              48,
-              48
-            ],
-            "ColorSpace": 1,
-            "ExifImageWidth": 3264,
-            "ExifImageHeight": 2448,
+            "ExifImageWidth": 2448,
+            "ExifImageHeight": 3264,
             "InteropOffset": 4912,
             "SensingMethod": 2,
             "SceneType": 1,
@@ -5790,9 +5662,9 @@
         },
         "gpsTime": 1399758642000,
         "gpsTimeStr": "Sat May 10 2014 14:50:42 GMT-0700 (PDT)",
-        "imgTime": 1399758647000,
-        "imgTimeStr": "Sat May 10 2014 14:50:47 GMT-0700 (PDT)",
-        "imgPath": "img/2014-05-10 14.50.47.jpg"
+        "imgTime": 1399758654000,
+        "imgTimeStr": "Sat May 10 2014 14:50:54 GMT-0700 (PDT)",
+        "imgPath": "img/2014-05-10 14.50.54.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -5944,7 +5816,7 @@
             "YResolution": 72,
             "ResolutionUnit": 2,
             "Software": "I535VRUCML1",
-            "ModifyDate": "2014:05:10 14:50:54",
+            "ModifyDate": "2014:05:10 14:50:47",
             "YCbCrPositioning": 1,
             "ExifOffset": 242,
             "GPSInfo": 4942
@@ -5958,10 +5830,10 @@
             "YResolution": 72,
             "ResolutionUnit": 2,
             "ThumbnailOffset": 5306,
-            "ThumbnailLength": 4366
+            "ThumbnailLength": 4447
           },
           "exif": {
-            "ExposureTime": 0.001184834123222749,
+            "ExposureTime": 0.0009881422924901185,
             "FNumber": 2.6,
             "ExposureProgram": 3,
             "ISO": 80,
@@ -5971,17 +5843,17 @@
               50,
               48
             ],
-            "DateTimeOriginal": "2014:05:10 14:50:54",
-            "CreateDate": "2014:05:10 14:50:54",
+            "DateTimeOriginal": "2014:05:10 14:50:47",
+            "CreateDate": "2014:05:10 14:50:47",
             "ComponentsConfiguration": [
               1,
               2,
               3,
               0
             ],
-            "ShutterSpeedValue": 9.72265625,
+            "ShutterSpeedValue": 9.984375,
             "ApertureValue": 2.76,
-            "BrightnessValue": 7.96484375,
+            "BrightnessValue": 8.18359375,
             "ExposureCompensation": 0,
             "MaxApertureValue": 2.76,
             "MeteringMode": 2,
@@ -5995,8 +5867,8 @@
               48
             ],
             "ColorSpace": 1,
-            "ExifImageWidth": 2448,
-            "ExifImageHeight": 3264,
+            "ExifImageWidth": 3264,
+            "ExifImageHeight": 2448,
             "InteropOffset": 4912,
             "SensingMethod": 2,
             "SceneType": 1,
@@ -6046,9 +5918,137 @@
         },
         "gpsTime": 1399758642000,
         "gpsTimeStr": "Sat May 10 2014 14:50:42 GMT-0700 (PDT)",
-        "imgTime": 1399758654000,
-        "imgTimeStr": "Sat May 10 2014 14:50:54 GMT-0700 (PDT)",
-        "imgPath": "img/2014-05-10 14.50.54.jpg"
+        "imgTime": 1399758647000,
+        "imgTimeStr": "Sat May 10 2014 14:50:47 GMT-0700 (PDT)",
+        "imgPath": "img/2014-05-10 14.50.47.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.48200916666667,
+          47.508698611111114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "exif": {
+          "image": {
+            "ImageWidth": 3264,
+            "ImageHeight": 2448,
+            "Make": "SAMSUNG",
+            "Model": "SCH-I535\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+            "Orientation": 1,
+            "XResolution": 72,
+            "YResolution": 72,
+            "ResolutionUnit": 2,
+            "Software": "I535VRUCML1",
+            "ModifyDate": "2014:05:10 14:52:35",
+            "YCbCrPositioning": 1,
+            "ExifOffset": 242,
+            "GPSInfo": 4942
+          },
+          "thumbnail": {
+            "ImageWidth": 160,
+            "ImageHeight": 120,
+            "Compression": 6,
+            "Orientation": 1,
+            "XResolution": 72,
+            "YResolution": 72,
+            "ResolutionUnit": 2,
+            "ThumbnailOffset": 5306,
+            "ThumbnailLength": 5066
+          },
+          "exif": {
+            "ExposureTime": 0.0008928571428571428,
+            "FNumber": 2.6,
+            "ExposureProgram": 3,
+            "ISO": 80,
+            "ExifVersion": [
+              48,
+              50,
+              50,
+              48
+            ],
+            "DateTimeOriginal": "2014:05:10 14:52:35",
+            "CreateDate": "2014:05:10 14:52:35",
+            "ComponentsConfiguration": [
+              1,
+              2,
+              3,
+              0
+            ],
+            "ShutterSpeedValue": 10.1328125,
+            "ApertureValue": 2.76,
+            "BrightnessValue": 8.390625,
+            "ExposureCompensation": 0,
+            "MaxApertureValue": 2.76,
+            "MeteringMode": 2,
+            "LightSource": 0,
+            "Flash": 0,
+            "FocalLength": 3.7,
+            "FlashpixVersion": [
+              48,
+              49,
+              48,
+              48
+            ],
+            "ColorSpace": 1,
+            "ExifImageWidth": 3264,
+            "ExifImageHeight": 2448,
+            "InteropOffset": 4912,
+            "SensingMethod": 2,
+            "SceneType": 1,
+            "ExposureMode": 0,
+            "WhiteBalance": 0,
+            "SceneCaptureType": 0,
+            "ImageUniqueID": "ZDFI02"
+          },
+          "gps": {
+            "GPSVersionID": [
+              2,
+              2,
+              0,
+              0
+            ],
+            "GPSLatitudeRef": "N",
+            "GPSLatitude": [
+              47,
+              30,
+              31.315
+            ],
+            "GPSLongitudeRef": "W",
+            "GPSLongitude": [
+              120,
+              28,
+              55.233
+            ],
+            "GPSAltitudeRef": 0,
+            "GPSAltitude": 0,
+            "GPSTimeStamp": [
+              21,
+              52,
+              31
+            ],
+            "GPSProcessingMethod": "ASCII\u0000\u0000\u0000NETWORK",
+            "GPSDateStamp": "2014:05:10"
+          },
+          "interoperability": {
+            "InteropIndex": "R98",
+            "InteropVersion": [
+              48,
+              49,
+              48,
+              48
+            ]
+          }
+        },
+        "gpsTime": 1399758751000,
+        "gpsTimeStr": "Sat May 10 2014 14:52:31 GMT-0700 (PDT)",
+        "imgTime": 1399758755000,
+        "imgTimeStr": "Sat May 10 2014 14:52:35 GMT-0700 (PDT)",
+        "imgPath": "img/2014-05-10 14.52.35.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -6586,7 +6586,7 @@
             "YResolution": 72,
             "ResolutionUnit": 2,
             "Software": "I535VRUCML1",
-            "ModifyDate": "2014:05:10 15:46:52",
+            "ModifyDate": "2014:05:10 15:44:01",
             "YCbCrPositioning": 1,
             "ExifOffset": 242,
             "GPSInfo": 4942
@@ -6600,30 +6600,30 @@
             "YResolution": 72,
             "ResolutionUnit": 2,
             "ThumbnailOffset": 5302,
-            "ThumbnailLength": 6707
+            "ThumbnailLength": 6452
           },
           "exif": {
-            "ExposureTime": 0.016666666666666666,
+            "ExposureTime": 0.014285714285714285,
             "FNumber": 2.6,
             "ExposureProgram": 3,
-            "ISO": 100,
+            "ISO": 80,
             "ExifVersion": [
               48,
               50,
               50,
               48
             ],
-            "DateTimeOriginal": "2014:05:10 15:46:52",
-            "CreateDate": "2014:05:10 15:46:52",
+            "DateTimeOriginal": "2014:05:10 15:44:01",
+            "CreateDate": "2014:05:10 15:44:01",
             "ComponentsConfiguration": [
               1,
               2,
               3,
               0
             ],
-            "ShutterSpeedValue": 5.90625,
+            "ShutterSpeedValue": 6.1328125,
             "ApertureValue": 2.76,
-            "BrightnessValue": 3.77734375,
+            "BrightnessValue": 4.3515625,
             "ExposureCompensation": 0,
             "MaxApertureValue": 2.76,
             "MeteringMode": 2,
@@ -6688,9 +6688,9 @@
         },
         "gpsTime": 1399761752000,
         "gpsTimeStr": "Sat May 10 2014 15:42:32 GMT-0700 (PDT)",
-        "imgTime": 1399762012000,
-        "imgTimeStr": "Sat May 10 2014 15:46:52 GMT-0700 (PDT)",
-        "imgPath": "img/2014-05-10 15.46.52.jpg"
+        "imgTime": 1399761841000,
+        "imgTimeStr": "Sat May 10 2014 15:44:01 GMT-0700 (PDT)",
+        "imgPath": "img/2014-05-10 15.44.01.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -6833,135 +6833,6 @@
             "YResolution": 72,
             "ResolutionUnit": 2,
             "Software": "I535VRUCML1",
-            "ModifyDate": "2014:05:10 15:44:01",
-            "YCbCrPositioning": 1,
-            "ExifOffset": 242,
-            "GPSInfo": 4942
-          },
-          "thumbnail": {
-            "ImageWidth": 160,
-            "ImageHeight": 120,
-            "Compression": 6,
-            "Orientation": 1,
-            "XResolution": 72,
-            "YResolution": 72,
-            "ResolutionUnit": 2,
-            "ThumbnailOffset": 5302,
-            "ThumbnailLength": 6452
-          },
-          "exif": {
-            "ExposureTime": 0.014285714285714285,
-            "FNumber": 2.6,
-            "ExposureProgram": 3,
-            "ISO": 80,
-            "ExifVersion": [
-              48,
-              50,
-              50,
-              48
-            ],
-            "DateTimeOriginal": "2014:05:10 15:44:01",
-            "CreateDate": "2014:05:10 15:44:01",
-            "ComponentsConfiguration": [
-              1,
-              2,
-              3,
-              0
-            ],
-            "ShutterSpeedValue": 6.1328125,
-            "ApertureValue": 2.76,
-            "BrightnessValue": 4.3515625,
-            "ExposureCompensation": 0,
-            "MaxApertureValue": 2.76,
-            "MeteringMode": 2,
-            "LightSource": 0,
-            "Flash": 0,
-            "FocalLength": 3.7,
-            "FlashpixVersion": [
-              48,
-              49,
-              48,
-              48
-            ],
-            "ColorSpace": 1,
-            "ExifImageWidth": 2448,
-            "ExifImageHeight": 3264,
-            "InteropOffset": 4912,
-            "SensingMethod": 2,
-            "SceneType": 1,
-            "ExposureMode": 0,
-            "WhiteBalance": 0,
-            "SceneCaptureType": 0,
-            "ImageUniqueID": "ZDFI02"
-          },
-          "gps": {
-            "GPSVersionID": [
-              2,
-              2,
-              0,
-              0
-            ],
-            "GPSLatitudeRef": "N",
-            "GPSLatitude": [
-              47,
-              20,
-              5.604
-            ],
-            "GPSLongitudeRef": "W",
-            "GPSLongitude": [
-              120,
-              33,
-              39.899
-            ],
-            "GPSAltitudeRef": 0,
-            "GPSAltitude": 1221.199,
-            "GPSTimeStamp": [
-              22,
-              42,
-              32
-            ],
-            "GPSProcessingMethod": "ASCII\u0000\u0000\u0000GPS",
-            "GPSDateStamp": "2014:05:10"
-          },
-          "interoperability": {
-            "InteropIndex": "R98",
-            "InteropVersion": [
-              48,
-              49,
-              48,
-              48
-            ]
-          }
-        },
-        "gpsTime": 1399761752000,
-        "gpsTimeStr": "Sat May 10 2014 15:42:32 GMT-0700 (PDT)",
-        "imgTime": 1399761841000,
-        "imgTimeStr": "Sat May 10 2014 15:44:01 GMT-0700 (PDT)",
-        "imgPath": "img/2014-05-10 15.44.01.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.56108305555556,
-          47.33489,
-          1221.199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "exif": {
-          "image": {
-            "ImageWidth": 3264,
-            "ImageHeight": 2448,
-            "Make": "SAMSUNG",
-            "Model": "SCH-I535\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-            "Orientation": 1,
-            "XResolution": 72,
-            "YResolution": 72,
-            "ResolutionUnit": 2,
-            "Software": "I535VRUCML1",
             "ModifyDate": "2014:05:10 15:44:03",
             "YCbCrPositioning": 1,
             "ExifOffset": 242,
@@ -7067,6 +6938,135 @@
         "imgTime": 1399761843000,
         "imgTimeStr": "Sat May 10 2014 15:44:03 GMT-0700 (PDT)",
         "imgPath": "img/2014-05-10 15.44.03.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.56108305555556,
+          47.33489,
+          1221.199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "exif": {
+          "image": {
+            "ImageWidth": 3264,
+            "ImageHeight": 2448,
+            "Make": "SAMSUNG",
+            "Model": "SCH-I535\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+            "Orientation": 1,
+            "XResolution": 72,
+            "YResolution": 72,
+            "ResolutionUnit": 2,
+            "Software": "I535VRUCML1",
+            "ModifyDate": "2014:05:10 15:46:52",
+            "YCbCrPositioning": 1,
+            "ExifOffset": 242,
+            "GPSInfo": 4942
+          },
+          "thumbnail": {
+            "ImageWidth": 160,
+            "ImageHeight": 120,
+            "Compression": 6,
+            "Orientation": 1,
+            "XResolution": 72,
+            "YResolution": 72,
+            "ResolutionUnit": 2,
+            "ThumbnailOffset": 5302,
+            "ThumbnailLength": 6707
+          },
+          "exif": {
+            "ExposureTime": 0.016666666666666666,
+            "FNumber": 2.6,
+            "ExposureProgram": 3,
+            "ISO": 100,
+            "ExifVersion": [
+              48,
+              50,
+              50,
+              48
+            ],
+            "DateTimeOriginal": "2014:05:10 15:46:52",
+            "CreateDate": "2014:05:10 15:46:52",
+            "ComponentsConfiguration": [
+              1,
+              2,
+              3,
+              0
+            ],
+            "ShutterSpeedValue": 5.90625,
+            "ApertureValue": 2.76,
+            "BrightnessValue": 3.77734375,
+            "ExposureCompensation": 0,
+            "MaxApertureValue": 2.76,
+            "MeteringMode": 2,
+            "LightSource": 0,
+            "Flash": 0,
+            "FocalLength": 3.7,
+            "FlashpixVersion": [
+              48,
+              49,
+              48,
+              48
+            ],
+            "ColorSpace": 1,
+            "ExifImageWidth": 2448,
+            "ExifImageHeight": 3264,
+            "InteropOffset": 4912,
+            "SensingMethod": 2,
+            "SceneType": 1,
+            "ExposureMode": 0,
+            "WhiteBalance": 0,
+            "SceneCaptureType": 0,
+            "ImageUniqueID": "ZDFI02"
+          },
+          "gps": {
+            "GPSVersionID": [
+              2,
+              2,
+              0,
+              0
+            ],
+            "GPSLatitudeRef": "N",
+            "GPSLatitude": [
+              47,
+              20,
+              5.604
+            ],
+            "GPSLongitudeRef": "W",
+            "GPSLongitude": [
+              120,
+              33,
+              39.899
+            ],
+            "GPSAltitudeRef": 0,
+            "GPSAltitude": 1221.199,
+            "GPSTimeStamp": [
+              22,
+              42,
+              32
+            ],
+            "GPSProcessingMethod": "ASCII\u0000\u0000\u0000GPS",
+            "GPSDateStamp": "2014:05:10"
+          },
+          "interoperability": {
+            "InteropIndex": "R98",
+            "InteropVersion": [
+              48,
+              49,
+              48,
+              48
+            ]
+          }
+        },
+        "gpsTime": 1399761752000,
+        "gpsTimeStr": "Sat May 10 2014 15:42:32 GMT-0700 (PDT)",
+        "imgTime": 1399762012000,
+        "imgTimeStr": "Sat May 10 2014 15:46:52 GMT-0700 (PDT)",
+        "imgPath": "img/2014-05-10 15.46.52.jpg"
       },
       "geometry": {
         "type": "Point",

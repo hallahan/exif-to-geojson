@@ -88,7 +88,18 @@ function processImage(imgPath, cb) {
 }
 
 console.log('Reading images in img directory...');
-var imgPaths = fs.readdirSync('img');
+var files = fs.readdirSync('img');
+
+/**
+ * Make sure we don't have anything that isn't jpg...
+ */
+var imgPaths = [];
+files.forEach(function (file) {
+  if (file.slice(-3).toLowerCase() === 'jpg' || file.slice(-3).toLowerCase() === 'jpeg') {
+    imgPaths.push(file);
+  }
+});
+
 flow.exec(function(){
   for (var i = 0, len = imgPaths.length; i < len; ++i) {
     var imgPath = 'img/' + imgPaths[i];
