@@ -53,7 +53,7 @@ function exifToFeature(exifData) {
   return feat;
 }
 
-function processImage(imgPath) {
+function processImage(imgPath, cb) {
   try {
     new ExifImage({ image : imgPath }, function (error, exifData) {
       if (error)
@@ -71,18 +71,25 @@ function processImage(imgPath) {
         } catch (err) {
           console.log(err + ' in ' + imgPath + '. Skipping...');
         }
-
-        fs.writeFileSync('exif.geojson', JSON.stringify(geojson, null, 2));
+        cb();
       }
     });
   } catch (error) {
     console.error(JSON.stringify(error,null,2));
+    cb();
   }
 }
 
 console.log('Reading images in img directory...');
 var imgPaths = fs.readdirSync('img');
-for (var i = 0, len = imgPaths.length; i < len; ++i) {
-  var imgPath = 'img/' + imgPaths[i];
-  processImage(imgPath);
-}
+flow.exec(function(){
+  for (var i = 0, len = imgPaths.length; i < len; ++i) {
+    var imgPath = 'img/' + imgPaths[i];
+    processImage(imgPath, this.MULTI());
+  }
+}, function() {
+  var outputPath = 'exif.geojson';
+  fs.writeFileSync(outputPath, JSON.stringify(geojson, null, 2));
+  console.log('Wrote GeoJSON to: ' + outputPath);
+  console.log('Able to process ' + geojson.features.length + ' out of ' + imgPaths.length + ' images.');
+});
