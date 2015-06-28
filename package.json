@@ -1,0 +1,30 @@
+{
+  "name": "exif-to-geojson",
+  "version": "0.0.1",
+  "description": "Converts EXIF information to geojson",
+  "main": "exif-to-geojson.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nLight/exif-to-geojson.git"
+  },
+  "keywords": [
+    "exif",
+    "geojson"
+  ],
+  "author": "Dmitriy Rozhkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nLight/exif-to-geojson/issues"
+  },
+  "homepage": "https://github.com/nLight/exif-to-geojson#readme",
+  "dependencies": {
+    "exif": "",
+    "flow": ""
+  }
+}

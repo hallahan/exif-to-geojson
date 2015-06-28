@@ -1,0 +1,30 @@
+#!/usr/bin/env node
+
+"use strict";
+
+var fs   = require('fs');
+var flow = require('flow');
+var lib  = require('../exif-to-geojson.js');
+
+var processImage = lib.processImage;
+
+console.log('Reading images in img directory...');
+
+var imgPaths = fs.readdirSync('img');
+
+flow.exec(function(){
+  for (var i = 0, len = imgPaths.length; i < len; ++i) {
+    var imgPath = 'img/' + imgPaths[i];
+    processImage(imgPath, this.MULTI());
+  }
+}, function(featuresArr) {
+  var geojson = {
+    type: "FeatureCollection",
+    features: Array.prototype.map.call(featuresArr, function(i){ return i["0"] }).filter(function(i) { return i })
+  };
+
+  var outputPath = 'exif.geojson';
+  fs.writeFileSync(outputPath, JSON.stringify(geojson, null, 2));
+  console.log('Wrote GeoJSON to: ' + outputPath);
+  console.log('Able to process ' + geojson.features.length + ' out of ' + imgPaths.length + ' images.');
+});
