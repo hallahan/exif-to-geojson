@@ -4,13 +4,6 @@
  */
 
 var ExifImage = require('exif').ExifImage;
-var fs        = require('fs');
-var flow      = require('flow');
-
-var geojson = {
-  type: "FeatureCollection",
-  features: []
-};
 
 function exifToFeature(exifData) {
   var gps = exifData.gps;
@@ -62,8 +55,10 @@ function exifToFeature(exifData) {
 function processImage(imgPath, cb) {
   try {
     new ExifImage({ image : imgPath }, function (error, exifData) {
-      if (error)
+      if (error) {
         console.error('Error for ' + imgPath + ': ' + error.message);
+        cb();
+      }
       else {
         // NH - Get rid of properties that the exif decoder does not
         // correctly decode. Wastes a bunch of space...
@@ -74,11 +69,11 @@ function processImage(imgPath, cb) {
         try {
           var feat = exifToFeature(exifData);
           feat.properties.imgPath = imgPath;
-          geojson.features.push(feat);
+          cb(feat);
         } catch (err) {
           console.log(err + ' in ' + imgPath + '. Skipping...');
+          cb();
         }
-        cb();
       }
     });
   } catch (error) {
@@ -87,16 +82,4 @@ function processImage(imgPath, cb) {
   }
 }
 
-console.log('Reading images in img directory...');
-var imgPaths = fs.readdirSync('img');
-flow.exec(function(){
-  for (var i = 0, len = imgPaths.length; i < len; ++i) {
-    var imgPath = 'img/' + imgPaths[i];
-    processImage(imgPath, this.MULTI());
-  }
-}, function() {
-  var outputPath = 'exif.geojson';
-  fs.writeFileSync(outputPath, JSON.stringify(geojson, null, 2));
-  console.log('Wrote GeoJSON to: ' + outputPath);
-  console.log('Able to process ' + geojson.features.length + ' out of ' + imgPaths.length + ' images.');
-});
+exports.processImage = processImage;
